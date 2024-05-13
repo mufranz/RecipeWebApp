@@ -76,6 +76,8 @@
     <script>
         document.getElementById('survey-form').addEventListener('submit', function(event) {
             event.preventDefault();
+
+            // Collecting form data
             var age = document.getElementById('age').value;
             var gender = document.getElementById('gender').value;
             var eatingHabit = document.querySelector('input[name="eating-habit"]:checked').value;
@@ -94,8 +96,11 @@
                 cookingExperience: cookingExperience
             };
 
-            // Send the surveyData to the server
-            fetch('http://localhost:3000/survey', {
+            // Setting the base URL dynamically
+            var baseUrl = window.location.hostname === 'localhost' ? 'http://localhost:3000' : 'https://recipe-web-app-one.vercel.app';
+
+            // Send the survey data to the server
+            fetch(`${baseUrl}/survey`, {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
