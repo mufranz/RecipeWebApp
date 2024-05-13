@@ -1,0 +1,209 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+h1, h2, h3 {
+    color: #444;
+}
+
+/* Start Screen Section */
+#start-screen {
+    background-color: white;
+    width: 80%; /* Default width */
+    margin: auto;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Adjustments for larger screens */
+@media (min-width: 1024px) {
+    #start-screen {
+        width: 60%; /* Smaller width for larger screens */
+    }
+}
+
+/* Adjustments for medium screens (e.g., tablets) */
+@media (max-width: 768px) {
+    #start-screen {
+        width: 90%; /* Wider for medium screens */
+    }
+}
+
+/* Adjustments for small screens (e.g., mobile phones) */
+@media (max-width: 480px) {
+    #start-screen {
+        width: 100%; /* Full width for small screens */
+        box-shadow: none; /* Optional: Remove shadow on small screens */
+    }
+}
+
+
+/* Informed Consent Section */
+#informed-consent {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #e9ecef;
+    border-radius: 5px;
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: left; /* Add this line to align text to the left */
+}
+
+
+#informed-consent h2, #informed-consent h3 {
+    color: #444;
+}
+
+#informed-consent ul, #informed-consent ol {
+    padding-left: 20px;
+}
+
+#informed-consent p, #informed-consent li {
+    font-size: 14px;
+}
+
+.researcher-info {
+    text-align: left;
+}
+
+.researcher-name {
+    display: inline-block; 
+    margin-right: 50px; 
+    vertical-align: top;
+}
+
+
+/* Button Styles */
+button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+
+    #start-screen {
+        max-width: 100%;
+    }
+}
+
+
+
+/* Recipes */
+.recipe-container {
+    width: calc((100% - 40px) / 3); /* Adjust width for 3 items per row */
+    /* Subtracting 40px to account for the 20px gap on both sides */
+    margin-bottom: 30px;
+    border: 1px solid #ddd;
+    padding: 15px;
+    box-sizing: border-box; /* Include padding and border in the width calculation */
+}
+
+.recipe-container h3 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.image-container {
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: center; 
+    gap: 20px; /* Space between items */
+    padding: 20px;
+}
+
+.recipe-container table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;  /* Adjust based on your design */
+}
+
+.recipe-container th, .recipe-container td {
+    text-align: left;
+    padding: 5px;  /* Adjust padding for spacing */
+    border-bottom: 1px solid #ddd;  /* Optional border for rows */
+}
+
+/* Optional: you can style the first column to be wider or narrower */
+.recipe-container td:first-child {
+    width: 70%;  /* Adjust based on your content */
+}
+
+
+/* Style for images in the recipe container */
+.recipe-container img {
+    width: 100%; /* Make the image width responsive */
+    max-width: 600px; /* Maximum width of the image */
+    max-height: 400px; /* Maximum height of the image */
+    height: auto; /* Maintain aspect ratio */
+    display: block;
+    margin: 0 auto 10px;
+    object-fit: cover;
+}
+
+/* Adjust the recipe container size on smaller screens */
+@media (max-width: 768px) {
+    .recipe-container {
+        width: calc((100% - 40px) / 2); /* 2 items per row on smaller screens */
+    }
+}
+
+/* Adjust for even smaller screens, like mobile phones */
+@media (max-width: 480px) {
+    .recipe-container {
+        width: 100%; /* Full width for very small screens */
+    }
+}
+
+
+
+.recipe-container ol {
+    padding-left: 20px;
+    list-style-position: inside;
+    text-align: left;
+}
+
+.recipe-container li {
+    margin-bottom: 10px;
+    line-height: 1.6;
+}
+
+
+.recipe-container h4 {
+    color: #666;
+    margin-bottom: 5px;
+}
+
+.recipe-container.selected {
+    border: 5px solid blue;
+}
+
+
+/*start screen*/
+.screen {
+    display: none; /* Hide screens initially */
+    text-align: center;
+    padding: 20px;
+}
+
+/* When you are ready to show a screen, you can add a class to make it display */
+.screen.active {
+    display: block;
+}

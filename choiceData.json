@@ -1,0 +1,2226 @@
+{
+  "userName": "l",
+  "chosenImage": "http://localhost:3000/german_food/gf_1.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_5.jpg",
+    "http://localhost:3000/german_food/gf_1.jpg",
+    "http://localhost:3000/german_food/gf_15.jpg"
+  ]
+}
+{
+  "userName": "l",
+  "chosenImage": "http://localhost:3000/german_food/gf_11.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_2.jpg",
+    "http://localhost:3000/german_food/gf_11.jpg",
+    "http://localhost:3000/german_food/gf_10.jpg"
+  ]
+}
+{
+  "userName": "l",
+  "chosenImage": "http://localhost:3000/german_food/gf_9.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_7.jpg",
+    "http://localhost:3000/german_food/gf_9.jpg",
+    "http://localhost:3000/german_food/gf_3.jpg"
+  ]
+}
+{
+  "userName": "test_1",
+  "chosenImage": "http://localhost:3000/german_food/gf_9.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_5.jpg",
+    "http://localhost:3000/german_food/gf_9.jpg",
+    "http://localhost:3000/german_food/gf_3.jpg"
+  ]
+}
+{
+  "userName": "test_1",
+  "chosenImage": "http://localhost:3000/german_food/gf_13.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_13.jpg",
+    "http://localhost:3000/german_food/gf_5.jpg",
+    "http://localhost:3000/german_food/gf_7.jpg"
+  ]
+}
+{
+  "userName": "test_1",
+  "chosenImage": "http://localhost:3000/german_food/gf_9.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_5.jpg",
+    "http://localhost:3000/german_food/gf_9.jpg",
+    "http://localhost:3000/german_food/gf_11.jpg"
+  ]
+}
+{
+  "userName": "test_1",
+  "chosenImage": "http://localhost:3000/german_food/gf_14.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_2.jpg",
+    "http://localhost:3000/german_food/gf_1.jpg",
+    "http://localhost:3000/german_food/gf_14.jpg"
+  ]
+}
+{
+  "userName": "test_1",
+  "chosenImage": "http://localhost:3000/german_food/gf_5.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_6.jpg",
+    "http://localhost:3000/german_food/gf_5.jpg",
+    "http://localhost:3000/german_food/gf_2.jpg"
+  ]
+}
+{
+  "userName": "test_1",
+  "chosenImage": "http://localhost:3000/german_food/gf_11.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_11.jpg",
+    "http://localhost:3000/german_food/gf_2.jpg",
+    "http://localhost:3000/german_food/gf_12.jpg"
+  ]
+}
+{
+  "userName": "franny",
+  "chosenImage": "http://localhost:3000/german_food/gf_2.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_11.jpg",
+    "http://localhost:3000/german_food/gf_2.jpg",
+    "http://localhost:3000/german_food/gf_4.jpg"
+  ]
+}
+{
+  "userName": "franny",
+  "chosenImage": "http://localhost:3000/german_food/gf_10.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_4.jpg",
+    "http://localhost:3000/german_food/gf_15.jpg",
+    "http://localhost:3000/german_food/gf_10.jpg"
+  ]
+}
+{
+  "userName": "franny",
+  "chosenImage": "http://localhost:3000/german_food/gf_6.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_12.jpg",
+    "http://localhost:3000/german_food/gf_6.jpg",
+    "http://localhost:3000/german_food/gf_15.jpg"
+  ]
+}
+{
+  "userName": "franny",
+  "chosenImage": "http://localhost:3000/german_food/gf_9.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_9.jpg",
+    "http://localhost:3000/german_food/gf_15.jpg",
+    "http://localhost:3000/german_food/gf_1.jpg"
+  ]
+}
+{
+  "userName": "franny",
+  "chosenImage": "http://localhost:3000/german_food/gf_15.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_14.jpg",
+    "http://localhost:3000/german_food/gf_15.jpg",
+    "http://localhost:3000/german_food/gf_5.jpg"
+  ]
+}
+{
+  "userName": "franny",
+  "chosenImage": "http://localhost:3000/german_food/gf_11.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_6.jpg",
+    "http://localhost:3000/german_food/gf_8.jpg",
+    "http://localhost:3000/german_food/gf_11.jpg"
+  ]
+}
+{
+  "userName": "test_2",
+  "chosenImage": "http://localhost:3000/german_food/gf_6.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_2.jpg",
+    "http://localhost:3000/german_food/gf_6.jpg",
+    "http://localhost:3000/german_food/gf_4.jpg"
+  ]
+}
+{
+  "userName": "test_2",
+  "chosenImage": "http://localhost:3000/german_food/gf_3.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_3.jpg",
+    "http://localhost:3000/german_food/gf_15.jpg",
+    "http://localhost:3000/german_food/gf_5.jpg"
+  ]
+}
+{
+  "userName": "test_2",
+  "chosenImage": "http://localhost:3000/german_food/gf_8.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_14.jpg",
+    "http://localhost:3000/german_food/gf_4.jpg",
+    "http://localhost:3000/german_food/gf_8.jpg"
+  ]
+}
+{
+  "userName": "test_2",
+  "chosenImage": "http://localhost:3000/german_food/gf_4.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_4.jpg",
+    "http://localhost:3000/german_food/gf_13.jpg",
+    "http://localhost:3000/german_food/gf_15.jpg"
+  ]
+}
+{
+  "userName": "test_2",
+  "chosenImage": "http://localhost:3000/german_food/gf_3.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_2.jpg",
+    "http://localhost:3000/german_food/gf_3.jpg",
+    "http://localhost:3000/german_food/gf_15.jpg"
+  ]
+}
+{
+  "userName": "test_2",
+  "chosenImage": "http://localhost:3000/german_food/gf_5.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_6.jpg",
+    "http://localhost:3000/german_food/gf_1.jpg",
+    "http://localhost:3000/german_food/gf_5.jpg"
+  ]
+}
+{
+  "userName": "leah",
+  "chosenImage": "http://localhost:3000/german_food/gf_13.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_13.jpg",
+    "http://localhost:3000/german_food/gf_11.jpg",
+    "http://localhost:3000/german_food/gf_1.jpg"
+  ]
+}
+{
+  "userName": "leah",
+  "chosenImage": "http://localhost:3000/german_food/gf_5.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_5.jpg",
+    "http://localhost:3000/german_food/gf_14.jpg",
+    "http://localhost:3000/german_food/gf_13.jpg"
+  ]
+}
+{
+  "userName": "leah",
+  "chosenImage": "http://localhost:3000/german_food/gf_3.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_6.jpg",
+    "http://localhost:3000/german_food/gf_3.jpg",
+    "http://localhost:3000/german_food/gf_15.jpg"
+  ]
+}
+{
+  "userName": "leah",
+  "chosenImage": "http://localhost:3000/german_food/gf_11.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_6.jpg",
+    "http://localhost:3000/german_food/gf_7.jpg",
+    "http://localhost:3000/german_food/gf_11.jpg"
+  ]
+}
+{
+  "userName": "leah",
+  "chosenImage": "http://localhost:3000/german_food/gf_15.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_1.jpg",
+    "http://localhost:3000/german_food/gf_15.jpg",
+    "http://localhost:3000/german_food/gf_8.jpg"
+  ]
+}
+{
+  "userName": "leah",
+  "chosenImage": "http://localhost:3000/german_food/gf_10.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_11.jpg",
+    "http://localhost:3000/german_food/gf_7.jpg",
+    "http://localhost:3000/german_food/gf_10.jpg"
+  ]
+}
+{
+  "userName": "Franz",
+  "chosenImage": "http://localhost:3000/german_food/gf_13.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_9.jpg",
+    "http://localhost:3000/german_food/gf_13.jpg",
+    "http://localhost:3000/german_food/gf_11.jpg"
+  ]
+}
+{
+  "userName": "Franz",
+  "chosenImage": "http://localhost:3000/german_food/gf_1.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_10.jpg",
+    "http://localhost:3000/german_food/gf_1.jpg",
+    "http://localhost:3000/german_food/gf_12.jpg"
+  ]
+}
+{
+  "userName": "Franz",
+  "chosenImage": "http://localhost:3000/german_food/gf_11.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_2.jpg",
+    "http://localhost:3000/german_food/gf_8.jpg",
+    "http://localhost:3000/german_food/gf_11.jpg"
+  ]
+}
+{
+  "userName": "mufranz",
+  "chosenImage": "http://localhost:3000/german_food/gf_7.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_9.jpg",
+    "http://localhost:3000/german_food/gf_7.jpg",
+    "http://localhost:3000/german_food/gf_4.jpg"
+  ]
+}
+{
+  "userName": "mufranz",
+  "chosenImage": "http://localhost:3000/german_food/gf_5.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_5.jpg",
+    "http://localhost:3000/german_food/gf_6.jpg",
+    "http://localhost:3000/german_food/gf_4.jpg"
+  ]
+}
+{
+  "userName": "mufranz",
+  "chosenImage": "http://localhost:3000/german_food/gf_10.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_5.jpg",
+    "http://localhost:3000/german_food/gf_10.jpg",
+    "http://localhost:3000/german_food/gf_4.jpg"
+  ]
+}
+{
+  "userName": "mufranz",
+  "chosenImage": "http://localhost:3000/german_food/gf_10.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_10.jpg",
+    "http://localhost:3000/german_food/gf_14.jpg",
+    "http://localhost:3000/german_food/gf_3.jpg"
+  ]
+}
+{
+  "userName": "mufranz",
+  "chosenImage": "http://localhost:3000/german_food/gf_1.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_7.jpg",
+    "http://localhost:3000/german_food/gf_1.jpg",
+    "http://localhost:3000/german_food/gf_12.jpg"
+  ]
+}
+{
+  "userName": "mufranz",
+  "chosenImage": "http://localhost:3000/german_food/gf_8.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_13.jpg",
+    "http://localhost:3000/german_food/gf_10.jpg",
+    "http://localhost:3000/german_food/gf_8.jpg"
+  ]
+}
+{
+  "userName": "mufranz",
+  "chosenImage": "http://localhost:3000/german_food/gf_6.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_9.jpg",
+    "http://localhost:3000/german_food/gf_6.jpg",
+    "http://localhost:3000/german_food/gf_12.jpg"
+  ]
+}
+{
+  "userName": "mufranz",
+  "chosenImage": "http://localhost:3000/german_food/gf_9.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_1.jpg",
+    "http://localhost:3000/german_food/gf_3.jpg",
+    "http://localhost:3000/german_food/gf_9.jpg"
+  ]
+}
+{
+  "userName": "mufranz",
+  "chosenImage": "http://localhost:3000/german_food/gf_15.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_15.jpg",
+    "http://localhost:3000/german_food/gf_3.jpg",
+    "http://localhost:3000/german_food/gf_8.jpg"
+  ]
+}
+{
+  "userId": "id_j7pemh4o4",
+  "chosenImage": "http://localhost:3000/german_food/gf_13.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_10.jpg",
+    "http://localhost:3000/german_food/gf_13.jpg",
+    "http://localhost:3000/german_food/gf_12.jpg"
+  ]
+}
+{
+  "userId": "id_j7pemh4o4",
+  "chosenImage": "http://localhost:3000/german_food/gf_6.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_3.jpg",
+    "http://localhost:3000/german_food/gf_9.jpg",
+    "http://localhost:3000/german_food/gf_6.jpg"
+  ]
+}
+{
+  "userId": "id_j7pemh4o4",
+  "chosenImage": "http://localhost:3000/german_food/gf_3.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_3.jpg",
+    "http://localhost:3000/german_food/gf_15.jpg",
+    "http://localhost:3000/german_food/gf_8.jpg"
+  ]
+}
+{
+  "userId": "id_71a4935ul",
+  "chosenImage": "http://localhost:3000/german_food/gf_8.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_8.jpg",
+    "http://localhost:3000/german_food/gf_2.jpg",
+    "http://localhost:3000/german_food/gf_12.jpg"
+  ]
+}
+{
+  "userId": "id_71a4935ul",
+  "chosenImage": "http://localhost:3000/german_food/gf_9.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_14.jpg",
+    "http://localhost:3000/german_food/gf_9.jpg",
+    "http://localhost:3000/german_food/gf_2.jpg"
+  ]
+}
+{
+  "userId": "id_71a4935ul",
+  "chosenImage": "http://localhost:3000/german_food/gf_12.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_6.jpg",
+    "http://localhost:3000/german_food/gf_10.jpg",
+    "http://localhost:3000/german_food/gf_12.jpg"
+  ]
+}
+{
+  "userId": "id_s99grvj45",
+  "chosenImage": "http://localhost:3000/german_food/gf_4.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_4.jpg",
+    "http://localhost:3000/german_food/gf_5.jpg",
+    "http://localhost:3000/german_food/gf_15.jpg"
+  ]
+}
+{
+  "userId": "id_s99grvj45",
+  "chosenImage": "http://localhost:3000/german_food/gf_6.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_4.jpg",
+    "http://localhost:3000/german_food/gf_6.jpg",
+    "http://localhost:3000/german_food/gf_14.jpg"
+  ]
+}
+{
+  "userId": "id_s99grvj45",
+  "chosenImage": "http://localhost:3000/german_food/gf_5.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_9.jpg",
+    "http://localhost:3000/german_food/gf_5.jpg",
+    "http://localhost:3000/german_food/gf_7.jpg"
+  ]
+}
+{
+  "userId": "id_8hjp9pvdy",
+  "chosenImage": "http://localhost:3000/german_food/gf_8.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_2.jpg",
+    "http://localhost:3000/german_food/gf_8.jpg",
+    "http://localhost:3000/german_food/gf_5.jpg"
+  ]
+}
+{
+  "userId": "id_8hjp9pvdy",
+  "chosenImage": "http://localhost:3000/german_food/gf_15.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_15.jpg",
+    "http://localhost:3000/german_food/gf_9.jpg",
+    "http://localhost:3000/german_food/gf_14.jpg"
+  ]
+}
+{
+  "userId": "id_8hjp9pvdy",
+  "chosenImage": "http://localhost:3000/german_food/gf_1.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_6.jpg",
+    "http://localhost:3000/german_food/gf_2.jpg",
+    "http://localhost:3000/german_food/gf_1.jpg"
+  ]
+}
+{
+  "userId": "id_b5p5eetmy",
+  "chosenImage": "http://localhost:3000/german_food/gf_10.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_10.jpg",
+    "http://localhost:3000/german_food/gf_9.jpg",
+    "http://localhost:3000/german_food/gf_15.jpg"
+  ]
+}
+{
+  "userId": "id_b5p5eetmy",
+  "chosenImage": "http://localhost:3000/german_food/gf_12.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_5.jpg",
+    "http://localhost:3000/german_food/gf_12.jpg",
+    "http://localhost:3000/german_food/gf_6.jpg"
+  ]
+}
+{
+  "userId": "id_b5p5eetmy",
+  "chosenImage": "http://localhost:3000/german_food/gf_2.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_4.jpg",
+    "http://localhost:3000/german_food/gf_2.jpg",
+    "http://localhost:3000/german_food/gf_13.jpg"
+  ]
+}
+{
+  "userId": "id_fobzy3jtu",
+  "chosenImage": "http://localhost:3000/german_food/gf_14.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_10.jpg",
+    "http://localhost:3000/german_food/gf_14.jpg",
+    "http://localhost:3000/german_food/gf_13.jpg"
+  ]
+}
+{
+  "userId": "id_fobzy3jtu",
+  "chosenImage": "http://localhost:3000/german_food/gf_10.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_13.jpg",
+    "http://localhost:3000/german_food/gf_11.jpg",
+    "http://localhost:3000/german_food/gf_10.jpg"
+  ]
+}
+{
+  "userId": "id_fobzy3jtu",
+  "chosenImage": "http://localhost:3000/german_food/gf_2.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_2.jpg",
+    "http://localhost:3000/german_food/gf_15.jpg",
+    "http://localhost:3000/german_food/gf_11.jpg"
+  ]
+}
+{
+  "userId": "id_egsg3wns9",
+  "chosenImage": "http://localhost:3000/german_food/gf_9.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_4.jpg",
+    "http://localhost:3000/german_food/gf_9.jpg",
+    "http://localhost:3000/german_food/gf_6.jpg"
+  ]
+}
+{
+  "userId": "id_egsg3wns9",
+  "chosenImage": "http://localhost:3000/german_food/gf_10.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_10.jpg",
+    "http://localhost:3000/german_food/gf_1.jpg",
+    "http://localhost:3000/german_food/gf_9.jpg"
+  ]
+}
+{
+  "userId": "id_egsg3wns9",
+  "chosenImage": "http://localhost:3000/german_food/gf_9.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_3.jpg",
+    "http://localhost:3000/german_food/gf_9.jpg",
+    "http://localhost:3000/german_food/gf_12.jpg"
+  ]
+}
+{
+  "userId": "id_hfro8y482",
+  "chosenImage": "http://localhost:3000/german_food/gf_2.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_10.jpg",
+    "http://localhost:3000/german_food/gf_2.jpg",
+    "http://localhost:3000/german_food/gf_3.jpg"
+  ]
+}
+{
+  "userId": "id_hfro8y482",
+  "chosenImage": "http://localhost:3000/german_food/gf_10.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_13.jpg",
+    "http://localhost:3000/german_food/gf_10.jpg",
+    "http://localhost:3000/german_food/gf_15.jpg"
+  ]
+}
+{
+  "userId": "id_hfro8y482",
+  "chosenImage": "http://localhost:3000/german_food/gf_5.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_7.jpg",
+    "http://localhost:3000/german_food/gf_5.jpg",
+    "http://localhost:3000/german_food/gf_11.jpg"
+  ]
+}
+{
+  "userId": "id_7e3c7bntk",
+  "chosenImage": "http://localhost:3000/german_food/gf_4.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_4.jpg",
+    "http://localhost:3000/german_food/gf_7.jpg",
+    "http://localhost:3000/german_food/gf_10.jpg"
+  ]
+}
+{
+  "userId": "id_7e3c7bntk",
+  "chosenImage": "http://localhost:3000/german_food/gf_9.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_6.jpg",
+    "http://localhost:3000/german_food/gf_9.jpg",
+    "http://localhost:3000/german_food/gf_2.jpg"
+  ]
+}
+{
+  "userId": "id_7e3c7bntk",
+  "chosenImage": "http://localhost:3000/german_food/gf_6.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_3.jpg",
+    "http://localhost:3000/german_food/gf_6.jpg",
+    "http://localhost:3000/german_food/gf_10.jpg"
+  ]
+}
+{
+  "userId": "id_5wtqdjnhk",
+  "chosenImage": "http://localhost:3000/german_food/gf_11.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_11.jpg",
+    "http://localhost:3000/german_food/gf_3.jpg",
+    "http://localhost:3000/german_food/gf_9.jpg"
+  ]
+}
+{
+  "userId": "id_5wtqdjnhk",
+  "chosenImage": "http://localhost:3000/german_food/gf_15.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_1.jpg",
+    "http://localhost:3000/german_food/gf_15.jpg",
+    "http://localhost:3000/german_food/gf_13.jpg"
+  ]
+}
+{
+  "userId": "id_5wtqdjnhk",
+  "chosenImage": "http://localhost:3000/german_food/gf_7.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_8.jpg",
+    "http://localhost:3000/german_food/gf_7.jpg",
+    "http://localhost:3000/german_food/gf_3.jpg"
+  ]
+}
+{
+  "userId": "id_0bzcgsznb",
+  "chosenImage": "http://localhost:3000/german_food/gf_10.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_10.jpg",
+    "http://localhost:3000/german_food/gf_4.jpg",
+    "http://localhost:3000/german_food/gf_6.jpg"
+  ]
+}
+{
+  "userId": "id_0bzcgsznb",
+  "chosenImage": "http://localhost:3000/german_food/gf_6.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_12.jpg",
+    "http://localhost:3000/german_food/gf_6.jpg",
+    "http://localhost:3000/german_food/gf_2.jpg"
+  ]
+}
+{
+  "userId": "id_0bzcgsznb",
+  "chosenImage": "http://localhost:3000/german_food/gf_14.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_13.jpg",
+    "http://localhost:3000/german_food/gf_8.jpg",
+    "http://localhost:3000/german_food/gf_14.jpg"
+  ]
+}
+{
+  "userId": "id_0bzcgsznb",
+  "chosenImage": "http://localhost:3000/german_food/gf_8.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_15.jpg",
+    "http://localhost:3000/german_food/gf_8.jpg",
+    "http://localhost:3000/german_food/gf_12.jpg"
+  ]
+}
+{
+  "userId": "id_0bzcgsznb",
+  "chosenImage": "http://localhost:3000/german_food/gf_11.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_13.jpg",
+    "http://localhost:3000/german_food/gf_8.jpg",
+    "http://localhost:3000/german_food/gf_11.jpg"
+  ]
+}
+{
+  "userId": "id_0bzcgsznb",
+  "chosenImage": "http://localhost:3000/german_food/gf_1.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_4.jpg",
+    "http://localhost:3000/german_food/gf_1.jpg",
+    "http://localhost:3000/german_food/gf_13.jpg"
+  ]
+}
+{
+  "userId": "id_0bzcgsznb",
+  "chosenImage": "http://localhost:3000/german_food/gf_13.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_7.jpg",
+    "http://localhost:3000/german_food/gf_13.jpg",
+    "http://localhost:3000/german_food/gf_2.jpg"
+  ]
+}
+{
+  "userId": "id_0bzcgsznb",
+  "chosenImage": "http://localhost:3000/german_food/gf_12.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_7.jpg",
+    "http://localhost:3000/german_food/gf_6.jpg",
+    "http://localhost:3000/german_food/gf_12.jpg"
+  ]
+}
+{
+  "userId": "id_0bzcgsznb",
+  "chosenImage": "http://localhost:3000/german_food/gf_12.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_12.jpg",
+    "http://localhost:3000/german_food/gf_9.jpg",
+    "http://localhost:3000/german_food/gf_2.jpg"
+  ]
+}
+{
+  "userId": "id_0bzcgsznb",
+  "chosenImage": "http://localhost:3000/german_food/gf_14.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_13.jpg",
+    "http://localhost:3000/german_food/gf_14.jpg",
+    "http://localhost:3000/german_food/gf_7.jpg"
+  ]
+}
+{
+  "userId": "id_0bzcgsznb",
+  "chosenImage": "http://localhost:3000/german_food/gf_3.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_4.jpg",
+    "http://localhost:3000/german_food/gf_3.jpg",
+    "http://localhost:3000/german_food/gf_1.jpg"
+  ]
+}
+{
+  "userId": "id_0bzcgsznb",
+  "chosenImage": "http://localhost:3000/german_food/gf_13.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_13.jpg",
+    "http://localhost:3000/german_food/gf_10.jpg",
+    "http://localhost:3000/german_food/gf_1.jpg"
+  ]
+}
+{
+  "userId": "id_iqt8i9qro",
+  "chosenImage": "http://localhost:3000/german_food/gf_5.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_5.jpg",
+    "http://localhost:3000/german_food/gf_13.jpg",
+    "http://localhost:3000/german_food/gf_2.jpg"
+  ]
+}
+{
+  "userId": "id_iqt8i9qro",
+  "chosenImage": "http://localhost:3000/german_food/gf_10.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_14.jpg",
+    "http://localhost:3000/german_food/gf_12.jpg",
+    "http://localhost:3000/german_food/gf_10.jpg"
+  ]
+}
+{
+  "userId": "id_iqt8i9qro",
+  "chosenImage": "http://localhost:3000/german_food/gf_3.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_12.jpg",
+    "http://localhost:3000/german_food/gf_3.jpg",
+    "http://localhost:3000/german_food/gf_8.jpg"
+  ]
+}
+{
+  "userId": "id_iqt8i9qro",
+  "chosenImage": "http://localhost:3000/german_food/gf_4.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_4.jpg",
+    "http://localhost:3000/german_food/gf_5.jpg",
+    "http://localhost:3000/german_food/gf_15.jpg"
+  ]
+}
+{
+  "userId": "id_iqt8i9qro",
+  "chosenImage": "http://localhost:3000/german_food/gf_14.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_15.jpg",
+    "http://localhost:3000/german_food/gf_4.jpg",
+    "http://localhost:3000/german_food/gf_14.jpg"
+  ]
+}
+{
+  "userId": "id_iqt8i9qro",
+  "chosenImage": "http://localhost:3000/german_food/gf_11.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_13.jpg",
+    "http://localhost:3000/german_food/gf_11.jpg",
+    "http://localhost:3000/german_food/gf_2.jpg"
+  ]
+}
+{
+  "userId": "id_m64z7pvzk",
+  "chosenImage": "http://localhost:3000/german_food/gf_12.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_12.jpg",
+    "http://localhost:3000/german_food/gf_11.jpg",
+    "http://localhost:3000/german_food/gf_7.jpg"
+  ]
+}
+{
+  "userId": "id_m64z7pvzk",
+  "chosenImage": "http://localhost:3000/german_food/gf_5.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_2.jpg",
+    "http://localhost:3000/german_food/gf_6.jpg",
+    "http://localhost:3000/german_food/gf_5.jpg"
+  ]
+}
+{
+  "userId": "id_m64z7pvzk",
+  "chosenImage": "http://localhost:3000/german_food/gf_15.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_14.jpg",
+    "http://localhost:3000/german_food/gf_3.jpg",
+    "http://localhost:3000/german_food/gf_15.jpg"
+  ]
+}
+{
+  "userId": "id_m64z7pvzk",
+  "chosenImage": "http://localhost:3000/german_food/gf_10.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_10.jpg",
+    "http://localhost:3000/german_food/gf_14.jpg",
+    "http://localhost:3000/german_food/gf_9.jpg"
+  ]
+}
+{
+  "userId": "id_m64z7pvzk",
+  "chosenImage": "http://localhost:3000/german_food/gf_7.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_9.jpg",
+    "http://localhost:3000/german_food/gf_7.jpg",
+    "http://localhost:3000/german_food/gf_4.jpg"
+  ]
+}
+{
+  "userId": "id_m64z7pvzk",
+  "chosenImage": "http://localhost:3000/german_food/gf_12.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_6.jpg",
+    "http://localhost:3000/german_food/gf_12.jpg",
+    "http://localhost:3000/german_food/gf_4.jpg"
+  ]
+}
+{
+  "userId": "id_ojbueofgy",
+  "chosenImage": "http://localhost:3000/german_food/gf_1.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_1.jpg",
+    "http://localhost:3000/german_food/gf_7.jpg",
+    "http://localhost:3000/german_food/gf_9.jpg"
+  ]
+}
+{
+  "userId": "id_ojbueofgy",
+  "chosenImage": "http://localhost:3000/german_food/gf_5.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_2.jpg",
+    "http://localhost:3000/german_food/gf_5.jpg",
+    "http://localhost:3000/german_food/gf_6.jpg"
+  ]
+}
+{
+  "userId": "id_ojbueofgy",
+  "chosenImage": "http://localhost:3000/german_food/gf_9.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_4.jpg",
+    "http://localhost:3000/german_food/gf_6.jpg",
+    "http://localhost:3000/german_food/gf_9.jpg"
+  ]
+}
+{
+  "userId": "id_ryaravb49",
+  "chosenImage": "http://localhost:3000/german_food/gf_5.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_8.jpg",
+    "http://localhost:3000/german_food/gf_5.jpg",
+    "http://localhost:3000/german_food/gf_11.jpg"
+  ]
+}
+{
+  "userId": "id_ryaravb49",
+  "chosenImage": "http://localhost:3000/german_food/gf_4.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_4.jpg",
+    "http://localhost:3000/german_food/gf_6.jpg",
+    "http://localhost:3000/german_food/gf_9.jpg"
+  ]
+}
+{
+  "userId": "id_ryaravb49",
+  "chosenImage": "http://localhost:3000/german_food/gf_5.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_4.jpg",
+    "http://localhost:3000/german_food/gf_13.jpg",
+    "http://localhost:3000/german_food/gf_5.jpg"
+  ]
+}
+{
+  "userId": "id_ryaravb49",
+  "chosenImage": "http://localhost:3000/german_food/gf_12.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_12.jpg",
+    "http://localhost:3000/german_food/gf_5.jpg",
+    "http://localhost:3000/german_food/gf_13.jpg"
+  ]
+}
+{
+  "userId": "id_ryaravb49",
+  "chosenImage": "http://localhost:3000/german_food/gf_7.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_2.jpg",
+    "http://localhost:3000/german_food/gf_7.jpg",
+    "http://localhost:3000/german_food/gf_4.jpg"
+  ]
+}
+{
+  "userId": "id_ryaravb49",
+  "chosenImage": "http://localhost:3000/german_food/gf_9.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_15.jpg",
+    "http://localhost:3000/german_food/gf_8.jpg",
+    "http://localhost:3000/german_food/gf_9.jpg"
+  ]
+}
+{
+  "userId": "id_1n732x2hq",
+  "chosenImage": "http://localhost:3000/german_food/gf_11.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_11.jpg",
+    "http://localhost:3000/german_food/gf_2.jpg",
+    "http://localhost:3000/german_food/gf_7.jpg"
+  ]
+}
+{
+  "userId": "id_1n732x2hq",
+  "chosenImage": "http://localhost:3000/german_food/gf_2.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_9.jpg",
+    "http://localhost:3000/german_food/gf_2.jpg",
+    "http://localhost:3000/german_food/gf_11.jpg"
+  ]
+}
+{
+  "userId": "id_1n732x2hq",
+  "chosenImage": "http://localhost:3000/german_food/gf_15.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_14.jpg",
+    "http://localhost:3000/german_food/gf_4.jpg",
+    "http://localhost:3000/german_food/gf_15.jpg"
+  ]
+}
+{
+  "userId": "id_viteu26qz",
+  "chosenImage": "http://localhost:3000/german_food/gf_3.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_3.jpg",
+    "http://localhost:3000/german_food/gf_14.jpg",
+    "http://localhost:3000/german_food/gf_10.jpg"
+  ]
+}
+{
+  "userId": "id_viteu26qz",
+  "chosenImage": "http://localhost:3000/german_food/gf_7.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_13.jpg",
+    "http://localhost:3000/german_food/gf_7.jpg",
+    "http://localhost:3000/german_food/gf_11.jpg"
+  ]
+}
+{
+  "userId": "id_viteu26qz",
+  "chosenImage": "http://localhost:3000/german_food/gf_10.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_4.jpg",
+    "http://localhost:3000/german_food/gf_9.jpg",
+    "http://localhost:3000/german_food/gf_10.jpg"
+  ]
+}
+{
+  "userId": "id_viteu26qz",
+  "chosenImage": "http://localhost:3000/german_food/gf_9.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_7.jpg",
+    "http://localhost:3000/german_food/gf_9.jpg",
+    "http://localhost:3000/german_food/gf_14.jpg"
+  ]
+}
+{
+  "userId": "id_viteu26qz",
+  "chosenImage": "http://localhost:3000/german_food/gf_3.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_3.jpg",
+    "http://localhost:3000/german_food/gf_13.jpg",
+    "http://localhost:3000/german_food/gf_5.jpg"
+  ]
+}
+{
+  "userId": "id_viteu26qz",
+  "chosenImage": "http://localhost:3000/german_food/gf_12.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_6.jpg",
+    "http://localhost:3000/german_food/gf_12.jpg",
+    "http://localhost:3000/german_food/gf_8.jpg"
+  ]
+}
+{
+  "userId": "id_5l0e05t2f",
+  "chosenImage": "http://localhost:3000/german_food/gf_13.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_2.jpg",
+    "http://localhost:3000/german_food/gf_5.jpg",
+    "http://localhost:3000/german_food/gf_13.jpg"
+  ]
+}
+{
+  "userId": "id_5l0e05t2f",
+  "chosenImage": "http://localhost:3000/german_food/gf_7.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_5.jpg",
+    "http://localhost:3000/german_food/gf_7.jpg",
+    "http://localhost:3000/german_food/gf_1.jpg"
+  ]
+}
+{
+  "userId": "id_5l0e05t2f",
+  "chosenImage": "http://localhost:3000/german_food/gf_7.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_7.jpg",
+    "http://localhost:3000/german_food/gf_12.jpg",
+    "http://localhost:3000/german_food/gf_5.jpg"
+  ]
+}
+{
+  "userId": "id_sk8kh6561",
+  "chosenImage": "http://localhost:3000/german_food/gf_11.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_11.jpg",
+    "http://localhost:3000/german_food/gf_1.jpg",
+    "http://localhost:3000/german_food/gf_4.jpg"
+  ]
+}
+{
+  "userId": "id_sk8kh6561",
+  "chosenImage": "http://localhost:3000/german_food/gf_14.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_15.jpg",
+    "http://localhost:3000/german_food/gf_14.jpg",
+    "http://localhost:3000/german_food/gf_8.jpg"
+  ]
+}
+{
+  "userId": "id_sk8kh6561",
+  "chosenImage": "http://localhost:3000/german_food/gf_11.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_9.jpg",
+    "http://localhost:3000/german_food/gf_11.jpg",
+    "http://localhost:3000/german_food/gf_14.jpg"
+  ]
+}
+{
+  "userId": "id_yvsa2i9ol",
+  "chosenImage": "http://localhost:3000/german_food/gf_5.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_2.jpg",
+    "http://localhost:3000/german_food/gf_6.jpg",
+    "http://localhost:3000/german_food/gf_5.jpg"
+  ]
+}
+{
+  "userId": "id_yvsa2i9ol",
+  "chosenImage": "http://localhost:3000/german_food/gf_12.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_14.jpg",
+    "http://localhost:3000/german_food/gf_12.jpg",
+    "http://localhost:3000/german_food/gf_2.jpg"
+  ]
+}
+{
+  "userId": "id_yvsa2i9ol",
+  "chosenImage": "http://localhost:3000/german_food/gf_13.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_8.jpg",
+    "http://localhost:3000/german_food/gf_14.jpg",
+    "http://localhost:3000/german_food/gf_13.jpg"
+  ]
+}
+{
+  "userId": "id_aey5tumzy",
+  "chosenImage": "http://localhost:3000/german_food/gf_13.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_1.jpg",
+    "http://localhost:3000/german_food/gf_13.jpg",
+    "http://localhost:3000/german_food/gf_15.jpg"
+  ]
+}
+{
+  "userId": "id_aey5tumzy",
+  "chosenImage": "http://localhost:3000/german_food/gf_7.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_11.jpg",
+    "http://localhost:3000/german_food/gf_7.jpg",
+    "http://localhost:3000/german_food/gf_9.jpg"
+  ]
+}
+{
+  "userId": "id_aey5tumzy",
+  "chosenImage": "http://localhost:3000/german_food/gf_15.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_5.jpg",
+    "http://localhost:3000/german_food/gf_15.jpg",
+    "http://localhost:3000/german_food/gf_1.jpg"
+  ]
+}
+{
+  "userId": "id_sjaqcb8c0",
+  "chosenImage": "http://localhost:3000/german_food/gf_1.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_1.jpg",
+    "http://localhost:3000/german_food/gf_5.jpg",
+    "http://localhost:3000/german_food/gf_12.jpg"
+  ]
+}
+{
+  "userId": "id_sjaqcb8c0",
+  "chosenImage": "http://localhost:3000/german_food/gf_7.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_13.jpg",
+    "http://localhost:3000/german_food/gf_7.jpg",
+    "http://localhost:3000/german_food/gf_2.jpg"
+  ]
+}
+{
+  "userId": "id_sjaqcb8c0",
+  "chosenImage": "http://localhost:3000/german_food/gf_12.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_4.jpg",
+    "http://localhost:3000/german_food/gf_3.jpg",
+    "http://localhost:3000/german_food/gf_12.jpg"
+  ]
+}
+{
+  "userId": "id_iqhgy9cxv",
+  "chosenImage": "http://localhost:3000/german_food/gf_6.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_6.jpg",
+    "http://localhost:3000/german_food/gf_8.jpg",
+    "http://localhost:3000/german_food/gf_14.jpg"
+  ]
+}
+{
+  "userId": "id_iqhgy9cxv",
+  "chosenImage": "http://localhost:3000/german_food/gf_11.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_7.jpg",
+    "http://localhost:3000/german_food/gf_11.jpg",
+    "http://localhost:3000/german_food/gf_13.jpg"
+  ]
+}
+{
+  "userId": "id_iqhgy9cxv",
+  "chosenImage": "http://localhost:3000/german_food/gf_3.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_15.jpg",
+    "http://localhost:3000/german_food/gf_12.jpg",
+    "http://localhost:3000/german_food/gf_3.jpg"
+  ]
+}
+{
+  "userId": "id_9h9lfd8tn",
+  "chosenImage": "http://localhost:3000/german_food/gf_1.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_2.jpg",
+    "http://localhost:3000/german_food/gf_1.jpg",
+    "http://localhost:3000/german_food/gf_10.jpg"
+  ]
+}
+{
+  "userId": "id_9h9lfd8tn",
+  "chosenImage": "http://localhost:3000/german_food/gf_15.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_15.jpg",
+    "http://localhost:3000/german_food/gf_14.jpg",
+    "http://localhost:3000/german_food/gf_3.jpg"
+  ]
+}
+{
+  "userId": "id_9h9lfd8tn",
+  "chosenImage": "http://localhost:3000/german_food/gf_3.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_11.jpg",
+    "http://localhost:3000/german_food/gf_3.jpg",
+    "http://localhost:3000/german_food/gf_14.jpg"
+  ]
+}
+{
+  "userId": "id_kfg2cayjp",
+  "chosenImage": "http://localhost:3000/german_food/gf_4.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_4.jpg",
+    "http://localhost:3000/german_food/gf_13.jpg",
+    "http://localhost:3000/german_food/gf_10.jpg"
+  ]
+}
+{
+  "userId": "id_kfg2cayjp",
+  "chosenImage": "http://localhost:3000/german_food/gf_2.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_7.jpg",
+    "http://localhost:3000/german_food/gf_2.jpg",
+    "http://localhost:3000/german_food/gf_8.jpg"
+  ]
+}
+{
+  "userId": "id_kfg2cayjp",
+  "chosenImage": "http://localhost:3000/german_food/gf_4.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_6.jpg",
+    "http://localhost:3000/german_food/gf_9.jpg",
+    "http://localhost:3000/german_food/gf_4.jpg"
+  ]
+}
+{
+  "userId": "id_2blr0v7nw",
+  "chosenImage": "http://localhost:3000/german_food/gf_11.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_11.jpg",
+    "http://localhost:3000/german_food/gf_10.jpg",
+    "http://localhost:3000/german_food/gf_13.jpg"
+  ]
+}
+{
+  "userId": "id_2blr0v7nw",
+  "chosenImage": "http://localhost:3000/german_food/gf_6.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_7.jpg",
+    "http://localhost:3000/german_food/gf_6.jpg",
+    "http://localhost:3000/german_food/gf_14.jpg"
+  ]
+}
+{
+  "userId": "id_2blr0v7nw",
+  "chosenImage": "http://localhost:3000/german_food/gf_6.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_2.jpg",
+    "http://localhost:3000/german_food/gf_6.jpg",
+    "http://localhost:3000/german_food/gf_13.jpg"
+  ]
+}
+{
+  "userId": "id_zi1dwaxb3",
+  "chosenImage": "http://localhost:3000/german_food/gf_6.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_13.jpg",
+    "http://localhost:3000/german_food/gf_6.jpg",
+    "http://localhost:3000/german_food/gf_8.jpg"
+  ]
+}
+{
+  "userId": "id_zi1dwaxb3",
+  "chosenImage": "http://localhost:3000/german_food/gf_1.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_1.jpg",
+    "http://localhost:3000/german_food/gf_10.jpg",
+    "http://localhost:3000/german_food/gf_5.jpg"
+  ]
+}
+{
+  "userId": "id_zi1dwaxb3",
+  "chosenImage": "http://localhost:3000/german_food/gf_3.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_9.jpg",
+    "http://localhost:3000/german_food/gf_3.jpg",
+    "http://localhost:3000/german_food/gf_10.jpg"
+  ]
+}
+{
+  "userId": "id_6jqz62x7u",
+  "chosenImage": "http://localhost:3000/german_food/gf_6.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_3.jpg",
+    "http://localhost:3000/german_food/gf_6.jpg",
+    "http://localhost:3000/german_food/gf_11.jpg"
+  ]
+}
+{
+  "userId": "id_5nsk3onxx",
+  "chosenImage": "http://localhost:3000/german_food/gf_12.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_12.jpg",
+    "http://localhost:3000/german_food/gf_2.jpg",
+    "http://localhost:3000/german_food/gf_3.jpg"
+  ]
+}
+{
+  "userId": "id_5nsk3onxx",
+  "chosenImage": "http://localhost:3000/german_food/gf_14.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_1.jpg",
+    "http://localhost:3000/german_food/gf_14.jpg",
+    "http://localhost:3000/german_food/gf_13.jpg"
+  ]
+}
+{
+  "userId": "id_5nsk3onxx",
+  "chosenImage": "http://localhost:3000/german_food/gf_8.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_6.jpg",
+    "http://localhost:3000/german_food/gf_8.jpg",
+    "http://localhost:3000/german_food/gf_4.jpg"
+  ]
+}
+{
+  "userId": "id_5nsk3onxx",
+  "chosenImage": "http://localhost:3000/german_food/gf_10.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_12.jpg",
+    "http://localhost:3000/german_food/gf_10.jpg",
+    "http://localhost:3000/german_food/gf_3.jpg"
+  ]
+}
+{
+  "userId": "id_5nsk3onxx",
+  "chosenImage": "http://localhost:3000/german_food/gf_4.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_5.jpg",
+    "http://localhost:3000/german_food/gf_13.jpg",
+    "http://localhost:3000/german_food/gf_4.jpg"
+  ]
+}
+{
+  "userId": "id_5nsk3onxx",
+  "chosenImage": "http://localhost:3000/german_food/gf_10.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/gf_10.jpg",
+    "http://localhost:3000/german_food/gf_8.jpg",
+    "http://localhost:3000/german_food/gf_14.jpg"
+  ]
+}
+{
+  "userId": "id_0v1pj75lb",
+  "chosenImage": "http://localhost:3000/german_food/k_79698.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_79698.jpg",
+    "http://localhost:3000/german_food/k_45291.jpg",
+    "http://localhost:3000/german_food/k_17750.jpg"
+  ]
+}
+{
+  "userId": "id_0v1pj75lb",
+  "chosenImage": "http://localhost:3000/german_food/k_79698.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_23157.jpg",
+    "http://localhost:3000/german_food/k_35167.jpg",
+    "http://localhost:3000/german_food/k_79698.jpg"
+  ]
+}
+{
+  "userId": "id_0v1pj75lb",
+  "chosenImage": "http://localhost:3000/german_food/k_110844.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_17750.jpg",
+    "http://localhost:3000/german_food/k_57642.jpg",
+    "http://localhost:3000/german_food/k_110844.jpg"
+  ]
+}
+{
+  "userId": "id_cyecxdhu0",
+  "chosenImage": "http://localhost:3000/german_food/k_57642.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_57642.jpg",
+    "http://localhost:3000/german_food/k_17750.jpg",
+    "http://localhost:3000/german_food/k_22429.jpg"
+  ]
+}
+{
+  "userId": "id_1ig2bir4x",
+  "chosenImage": "http://localhost:3000/german_food/k_17750.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_17750.jpg",
+    "http://localhost:3000/german_food/k_35887.jpg",
+    "http://localhost:3000/german_food/k_50547.jpg"
+  ]
+}
+{
+  "userId": "id_1ig2bir4x",
+  "chosenImage": "http://localhost:3000/german_food/k_35167.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_57642.jpg",
+    "http://localhost:3000/german_food/k_49991.jpg",
+    "http://localhost:3000/german_food/k_35167.jpg"
+  ]
+}
+{
+  "userId": "id_1ig2bir4x",
+  "chosenImage": "http://localhost:3000/german_food/k_110844.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_110844.jpg",
+    "http://localhost:3000/german_food/k_57642.jpg",
+    "http://localhost:3000/german_food/k_35167.jpg"
+  ]
+}
+{
+  "userId": "id_o6deliojf",
+  "chosenImage": "http://localhost:3000/german_food/k_79698.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_22429.jpg",
+    "http://localhost:3000/german_food/k_79698.jpg",
+    "http://localhost:3000/german_food/k_41465.jpg"
+  ]
+}
+{
+  "userId": "id_o6deliojf",
+  "chosenImage": "http://localhost:3000/german_food/k_22429.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_22429.jpg",
+    "http://localhost:3000/german_food/k_23157.jpg",
+    "http://localhost:3000/german_food/k_50547.jpg"
+  ]
+}
+{
+  "userId": "id_abid3nr9b",
+  "chosenImage": "http://localhost:3000/german_food/k_41465.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_25427.jpg",
+    "http://localhost:3000/german_food/k_41465.jpg",
+    "http://localhost:3000/german_food/k_22429.jpg"
+  ]
+}
+{
+  "userId": "id_swt615y9m",
+  "chosenImage": "http://localhost:3000/german_food/k_17750.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_110844.jpg",
+    "http://localhost:3000/german_food/k_50547.jpg",
+    "http://localhost:3000/german_food/k_17750.jpg"
+  ]
+}
+{
+  "userId": "id_swt615y9m",
+  "chosenImage": "http://localhost:3000/german_food/k_49991.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_49991.jpg",
+    "http://localhost:3000/german_food/k_25427.jpg",
+    "http://localhost:3000/german_food/k_35167.jpg"
+  ]
+}
+{
+  "userId": "id_swt615y9m",
+  "chosenImage": "http://localhost:3000/german_food/k_25427.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_35887.jpg",
+    "http://localhost:3000/german_food/k_25427.jpg",
+    "http://localhost:3000/german_food/k_22429.jpg"
+  ]
+}
+{
+  "userId": "id_o91vhka73",
+  "chosenImage": "http://localhost:3000/german_food/k_25427.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_25427.jpg",
+    "http://localhost:3000/german_food/k_110844.jpg",
+    "http://localhost:3000/german_food/k_17750.jpg"
+  ]
+}
+{
+  "userId": "id_o91vhka73",
+  "chosenImage": "http://localhost:3000/german_food/k_35167.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_17750.jpg",
+    "http://localhost:3000/german_food/k_35167.jpg",
+    "http://localhost:3000/german_food/k_53708.jpg"
+  ]
+}
+{
+  "userId": "id_oarun2z9i",
+  "chosenImage": "http://localhost:3000/german_food/k_57642.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_79698.jpg",
+    "http://localhost:3000/german_food/k_50547.jpg",
+    "http://localhost:3000/german_food/k_57642.jpg"
+  ]
+}
+{
+  "userId": "id_oarun2z9i",
+  "chosenImage": "http://localhost:3000/german_food/k_23157.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_23157.jpg",
+    "http://localhost:3000/german_food/k_35167.jpg",
+    "http://localhost:3000/german_food/k_53708.jpg"
+  ]
+}
+{
+  "userId": "id_oarun2z9i",
+  "chosenImage": "http://localhost:3000/german_food/k_81683.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_17750.jpg",
+    "http://localhost:3000/german_food/k_23157.jpg",
+    "http://localhost:3000/german_food/k_81683.jpg"
+  ]
+}
+{
+  "userId": "id_9puhkbxqd",
+  "chosenImage": "http://localhost:3000/german_food/k_110844.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_53708.jpg",
+    "http://localhost:3000/german_food/k_79698.jpg",
+    "http://localhost:3000/german_food/k_110844.jpg"
+  ]
+}
+{
+  "userId": "id_4m9zgslrn",
+  "chosenImage": "http://localhost:3000/german_food/k_17750.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_17750.jpg"
+  ]
+}
+{
+  "userId": "id_4m9zgslrn",
+  "chosenImage": "http://localhost:3000/german_food/k_22429.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_22429.jpg"
+  ]
+}
+{
+  "userId": "id_tupscrw4y",
+  "chosenImage": "http://localhost:3000/german_food/k_53708.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_53708.jpg"
+  ]
+}
+{
+  "userId": "id_4rpwf1c9v",
+  "chosenImage": "http://localhost:3000/german_food/k_81683.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_41465.jpg",
+    "http://localhost:3000/german_food/k_35887.jpg",
+    "http://localhost:3000/german_food/k_81683.jpg"
+  ]
+}
+{
+  "userId": "id_4rpwf1c9v",
+  "chosenImage": "http://localhost:3000/german_food/k_49991.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_110844.jpg",
+    "http://localhost:3000/german_food/k_50547.jpg",
+    "http://localhost:3000/german_food/k_49991.jpg"
+  ]
+}
+{
+  "userId": "id_4rpwf1c9v",
+  "chosenImage": "http://localhost:3000/german_food/k_17750.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_17750.jpg",
+    "http://localhost:3000/german_food/k_45291.jpg",
+    "http://localhost:3000/german_food/k_50547.jpg"
+  ]
+}
+{
+  "userId": "id_0hegtl8kr",
+  "chosenImage": "http://localhost:3000/german_food/k_45291.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_57642.jpg",
+    "http://localhost:3000/german_food/k_45291.jpg",
+    "http://localhost:3000/german_food/k_25427.jpg"
+  ]
+}
+{
+  "userId": "id_0hegtl8kr",
+  "chosenImage": "http://localhost:3000/german_food/k_81683.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_25427.jpg",
+    "http://localhost:3000/german_food/k_81683.jpg",
+    "http://localhost:3000/german_food/k_57642.jpg"
+  ]
+}
+{
+  "userId": "id_0hegtl8kr",
+  "chosenImage": "http://localhost:3000/german_food/k_81683.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_57642.jpg",
+    "http://localhost:3000/german_food/k_81683.jpg",
+    "http://localhost:3000/german_food/k_17750.jpg"
+  ]
+}
+{
+  "userId": "id_apti5la2l",
+  "chosenImage": "http://localhost:3000/german_food/k_22429.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_22429.jpg",
+    "http://localhost:3000/german_food/k_35887.jpg",
+    "http://localhost:3000/german_food/k_81683.jpg"
+  ]
+}
+{
+  "userId": "id_apti5la2l",
+  "chosenImage": "http://localhost:3000/german_food/k_41465.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_35167.jpg",
+    "http://localhost:3000/german_food/k_41465.jpg",
+    "http://localhost:3000/german_food/k_81683.jpg"
+  ]
+}
+{
+  "userId": "id_apti5la2l",
+  "chosenImage": "http://localhost:3000/german_food/k_79698.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_22429.jpg",
+    "http://localhost:3000/german_food/k_79698.jpg",
+    "http://localhost:3000/german_food/k_35887.jpg"
+  ]
+}
+{
+  "userId": "id_s7uqpspjj",
+  "chosenImage": "http://localhost:3000/german_food/k_35887.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_57642.jpg",
+    "http://localhost:3000/german_food/k_35887.jpg",
+    "http://localhost:3000/german_food/k_49991.jpg"
+  ]
+}
+{
+  "userId": "id_s7uqpspjj",
+  "chosenImage": "http://localhost:3000/german_food/k_23157.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_35167.jpg",
+    "http://localhost:3000/german_food/k_81683.jpg",
+    "http://localhost:3000/german_food/k_23157.jpg"
+  ]
+}
+{
+  "userId": "id_s7uqpspjj",
+  "chosenImage": "http://localhost:3000/german_food/k_25427.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_35887.jpg",
+    "http://localhost:3000/german_food/k_25427.jpg",
+    "http://localhost:3000/german_food/k_41465.jpg"
+  ]
+}
+{
+  "userId": "id_uinfg61z3",
+  "chosenImage": "http://localhost:3000/german_food/k_25427.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_53708.jpg",
+    "http://localhost:3000/german_food/k_25427.jpg",
+    "http://localhost:3000/german_food/k_41465.jpg"
+  ]
+}
+{
+  "userId": "id_uinfg61z3",
+  "chosenImage": "http://localhost:3000/german_food/k_50547.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_49991.jpg",
+    "http://localhost:3000/german_food/k_25427.jpg",
+    "http://localhost:3000/german_food/k_50547.jpg"
+  ]
+}
+{
+  "userId": "id_uinfg61z3",
+  "chosenImage": "http://localhost:3000/german_food/k_23157.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_23157.jpg",
+    "http://localhost:3000/german_food/k_49991.jpg",
+    "http://localhost:3000/german_food/k_79698.jpg"
+  ]
+}
+{
+  "userId": "id_4zmlahbp7",
+  "chosenImage": "http://localhost:3000/german_food/k_57642.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_57642.jpg",
+    "http://localhost:3000/german_food/k_23157.jpg",
+    "http://localhost:3000/german_food/k_41465.jpg"
+  ]
+}
+{
+  "userId": "id_4zmlahbp7",
+  "chosenImage": "http://localhost:3000/german_food/k_50547.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_22429.jpg",
+    "http://localhost:3000/german_food/k_50547.jpg",
+    "http://localhost:3000/german_food/k_35167.jpg"
+  ]
+}
+{
+  "userId": "id_4zmlahbp7",
+  "chosenImage": "http://localhost:3000/german_food/k_79698.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_79698.jpg",
+    "http://localhost:3000/german_food/k_35167.jpg",
+    "http://localhost:3000/german_food/k_35887.jpg"
+  ]
+}
+{
+  "userId": "id_xvkgkncb5",
+  "chosenImage": "http://localhost:3000/german_food/k_17750.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_17750.jpg",
+    "http://localhost:3000/german_food/k_25427.jpg",
+    "http://localhost:3000/german_food/k_23157.jpg"
+  ]
+}
+{
+  "userId": "id_xvkgkncb5",
+  "chosenImage": "http://localhost:3000/german_food/k_110844.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_45291.jpg",
+    "http://localhost:3000/german_food/k_110844.jpg",
+    "http://localhost:3000/german_food/k_50547.jpg"
+  ]
+}
+{
+  "userId": "id_xvkgkncb5",
+  "chosenImage": "http://localhost:3000/german_food/k_81683.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_81683.jpg",
+    "http://localhost:3000/german_food/k_41465.jpg",
+    "http://localhost:3000/german_food/k_17750.jpg"
+  ]
+}
+{
+  "userId": "id_sewsu97yd",
+  "chosenImage": "http://localhost:3000/german_food/k_79698.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_79698.jpg",
+    "http://localhost:3000/german_food/k_35167.jpg",
+    "http://localhost:3000/german_food/k_17750.jpg"
+  ]
+}
+{
+  "userId": "id_sewsu97yd",
+  "chosenImage": "http://localhost:3000/german_food/k_22429.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_22429.jpg",
+    "http://localhost:3000/german_food/k_17750.jpg",
+    "http://localhost:3000/german_food/k_23157.jpg"
+  ]
+}
+{
+  "userId": "id_sewsu97yd",
+  "chosenImage": "http://localhost:3000/german_food/k_79698.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_22429.jpg",
+    "http://localhost:3000/german_food/k_79698.jpg",
+    "http://localhost:3000/german_food/k_57642.jpg"
+  ]
+}
+{
+  "userId": "id_initpvfcj",
+  "chosenImage": "http://localhost:3000/german_food/k_81683.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_35887.jpg",
+    "http://localhost:3000/german_food/k_81683.jpg",
+    "http://localhost:3000/german_food/k_22429.jpg"
+  ]
+}
+{
+  "userId": "id_initpvfcj",
+  "chosenImage": "http://localhost:3000/german_food/k_49991.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_35167.jpg",
+    "http://localhost:3000/german_food/k_49991.jpg",
+    "http://localhost:3000/german_food/k_81683.jpg"
+  ]
+}
+{
+  "userId": "id_initpvfcj",
+  "chosenImage": "http://localhost:3000/german_food/k_23157.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_23157.jpg",
+    "http://localhost:3000/german_food/k_50547.jpg",
+    "http://localhost:3000/german_food/k_57642.jpg"
+  ]
+}
+{
+  "userId": "id_fux99fqvz",
+  "chosenImage": "http://localhost:3000/german_food/k_22429.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_41465.jpg",
+    "http://localhost:3000/german_food/k_53708.jpg",
+    "http://localhost:3000/german_food/k_22429.jpg"
+  ]
+}
+{
+  "userId": "id_fux99fqvz",
+  "chosenImage": "http://localhost:3000/german_food/k_22429.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_25427.jpg",
+    "http://localhost:3000/german_food/k_22429.jpg",
+    "http://localhost:3000/german_food/k_17750.jpg"
+  ]
+}
+{
+  "userId": "id_fux99fqvz",
+  "chosenImage": "http://localhost:3000/german_food/k_22429.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_41465.jpg",
+    "http://localhost:3000/german_food/k_45291.jpg",
+    "http://localhost:3000/german_food/k_22429.jpg"
+  ]
+}
+{
+  "userId": "id_54l7dnfvk",
+  "chosenImage": "http://localhost:3000/german_food/k_49991.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_35887.jpg",
+    "http://localhost:3000/german_food/k_49991.jpg",
+    "http://localhost:3000/german_food/k_22429.jpg"
+  ]
+}
+{
+  "userId": "id_54l7dnfvk",
+  "chosenImage": "http://localhost:3000/german_food/k_79698.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_79698.jpg",
+    "http://localhost:3000/german_food/k_45291.jpg",
+    "http://localhost:3000/german_food/k_17750.jpg"
+  ]
+}
+{
+  "userId": "id_54l7dnfvk",
+  "chosenImage": "http://localhost:3000/german_food/k_17750.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_79698.jpg",
+    "http://localhost:3000/german_food/k_35167.jpg",
+    "http://localhost:3000/german_food/k_17750.jpg"
+  ]
+}
+{
+  "userId": "id_c5e8gag5g",
+  "chosenImage": "http://localhost:3000/german_food/k_17750.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_57642.jpg",
+    "http://localhost:3000/german_food/k_35167.jpg",
+    "http://localhost:3000/german_food/k_17750.jpg"
+  ]
+}
+{
+  "userId": "id_c5e8gag5g",
+  "chosenImage": "http://localhost:3000/german_food/k_35887.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_35887.jpg",
+    "http://localhost:3000/german_food/k_81683.jpg",
+    "http://localhost:3000/german_food/k_22429.jpg"
+  ]
+}
+{
+  "userId": "id_c5e8gag5g",
+  "chosenImage": "http://localhost:3000/german_food/k_57642.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_35167.jpg",
+    "http://localhost:3000/german_food/k_57642.jpg",
+    "http://localhost:3000/german_food/k_53708.jpg"
+  ]
+}
+{
+  "userId": "id_c5e8gag5g",
+  "chosenImage": "http://localhost:3000/german_food/k_57642.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_17750.jpg",
+    "http://localhost:3000/german_food/k_57642.jpg",
+    "http://localhost:3000/german_food/k_35887.jpg"
+  ]
+}
+{
+  "userId": "id_c5e8gag5g",
+  "chosenImage": "http://localhost:3000/german_food/k_110844.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_81683.jpg",
+    "http://localhost:3000/german_food/k_110844.jpg",
+    "http://localhost:3000/german_food/k_53708.jpg"
+  ]
+}
+{
+  "userId": "id_c5e8gag5g",
+  "chosenImage": "http://localhost:3000/german_food/k_110844.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_41465.jpg",
+    "http://localhost:3000/german_food/k_53708.jpg",
+    "http://localhost:3000/german_food/k_110844.jpg"
+  ]
+}
+{
+  "userId": "id_bbh38hfa1",
+  "chosenImage": "http://localhost:3000/german_food/k_45291.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_35167.jpg",
+    "http://localhost:3000/german_food/k_45291.jpg",
+    "http://localhost:3000/german_food/k_17750.jpg"
+  ]
+}
+{
+  "userId": "id_bbh38hfa1",
+  "chosenImage": "http://localhost:3000/german_food/k_53708.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_17750.jpg",
+    "http://localhost:3000/german_food/k_53708.jpg",
+    "http://localhost:3000/german_food/k_79698.jpg"
+  ]
+}
+{
+  "userId": "id_bbh38hfa1",
+  "chosenImage": "http://localhost:3000/german_food/k_22429.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_49991.jpg",
+    "http://localhost:3000/german_food/k_22429.jpg",
+    "http://localhost:3000/german_food/k_50547.jpg"
+  ]
+}
+{
+  "userId": "id_bbh38hfa1",
+  "chosenImage": "http://localhost:3000/german_food/k_53708.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_53708.jpg",
+    "http://localhost:3000/german_food/k_45291.jpg",
+    "http://localhost:3000/german_food/k_25427.jpg"
+  ]
+}
+{
+  "userId": "id_bbh38hfa1",
+  "chosenImage": "http://localhost:3000/german_food/k_23157.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_57642.jpg",
+    "http://localhost:3000/german_food/k_45291.jpg",
+    "http://localhost:3000/german_food/k_23157.jpg"
+  ]
+}
+{
+  "userId": "id_bbh38hfa1",
+  "chosenImage": "http://localhost:3000/german_food/k_49991.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_79698.jpg",
+    "http://localhost:3000/german_food/k_45291.jpg",
+    "http://localhost:3000/german_food/k_49991.jpg"
+  ]
+}
+{
+  "userId": "id_ctfdlt0vc",
+  "chosenImage": "http://localhost:3000/german_food/k_50547.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_41465.jpg",
+    "http://localhost:3000/german_food/k_25427.jpg",
+    "http://localhost:3000/german_food/k_50547.jpg"
+  ]
+}
+{
+  "userId": "id_ctfdlt0vc",
+  "chosenImage": "http://localhost:3000/german_food/k_35887.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_35887.jpg",
+    "http://localhost:3000/german_food/k_25427.jpg",
+    "http://localhost:3000/german_food/k_49991.jpg"
+  ]
+}
+{
+  "userId": "id_ctfdlt0vc",
+  "chosenImage": "http://localhost:3000/german_food/k_45291.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_41465.jpg",
+    "http://localhost:3000/german_food/k_45291.jpg",
+    "http://localhost:3000/german_food/k_57642.jpg"
+  ]
+}
+{
+  "userId": "id_14tjvrpo2",
+  "chosenImage": "http://localhost:3000/german_food/k_35887.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_49991.jpg",
+    "http://localhost:3000/german_food/k_57642.jpg",
+    "http://localhost:3000/german_food/k_35887.jpg"
+  ]
+}
+{
+  "userId": "id_14tjvrpo2",
+  "chosenImage": "http://localhost:3000/german_food/k_25427.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_25427.jpg",
+    "http://localhost:3000/german_food/k_53708.jpg",
+    "http://localhost:3000/german_food/k_23157.jpg"
+  ]
+}
+{
+  "userId": "id_14tjvrpo2",
+  "chosenImage": "http://localhost:3000/german_food/k_79698.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_41465.jpg",
+    "http://localhost:3000/german_food/k_53708.jpg",
+    "http://localhost:3000/german_food/k_79698.jpg"
+  ]
+}
+{
+  "userId": "id_fx1qh9qxs",
+  "chosenImage": "http://localhost:3000/german_food/k_25427.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_41465.jpg",
+    "http://localhost:3000/german_food/k_57642.jpg",
+    "http://localhost:3000/german_food/k_25427.jpg"
+  ]
+}
+{
+  "userId": "id_fx1qh9qxs",
+  "chosenImage": "http://localhost:3000/german_food/k_35887.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_35887.jpg",
+    "http://localhost:3000/german_food/k_79698.jpg",
+    "http://localhost:3000/german_food/k_57642.jpg"
+  ]
+}
+{
+  "userId": "id_fx1qh9qxs",
+  "chosenImage": "http://localhost:3000/german_food/k_23157.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_22429.jpg",
+    "http://localhost:3000/german_food/k_23157.jpg",
+    "http://localhost:3000/german_food/k_45291.jpg"
+  ]
+}
+{
+  "userId": "id_a7ptrj3oi",
+  "chosenImage": "http://localhost:3000/german_food/k_35167.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_35887.jpg",
+    "http://localhost:3000/german_food/k_35167.jpg",
+    "http://localhost:3000/german_food/k_49991.jpg"
+  ]
+}
+{
+  "userId": "id_a7ptrj3oi",
+  "chosenImage": "http://localhost:3000/german_food/k_49991.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_35167.jpg",
+    "http://localhost:3000/german_food/k_57642.jpg",
+    "http://localhost:3000/german_food/k_49991.jpg"
+  ]
+}
+{
+  "userId": "id_a7ptrj3oi",
+  "chosenImage": "http://localhost:3000/german_food/k_53708.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_53708.jpg",
+    "http://localhost:3000/german_food/k_57642.jpg",
+    "http://localhost:3000/german_food/k_22429.jpg"
+  ]
+}
+{
+  "userId": "id_dzh93rzdq",
+  "chosenImage": "http://localhost:3000/german_food/k_35887.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_35887.jpg",
+    "http://localhost:3000/german_food/k_45291.jpg",
+    "http://localhost:3000/german_food/k_41465.jpg"
+  ]
+}
+{
+  "userId": "id_dzh93rzdq",
+  "chosenImage": "http://localhost:3000/german_food/k_41465.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_50547.jpg",
+    "http://localhost:3000/german_food/k_110844.jpg",
+    "http://localhost:3000/german_food/k_41465.jpg"
+  ]
+}
+{
+  "userId": "id_dzh93rzdq",
+  "chosenImage": "http://localhost:3000/german_food/k_49991.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_45291.jpg",
+    "http://localhost:3000/german_food/k_49991.jpg",
+    "http://localhost:3000/german_food/k_110844.jpg"
+  ]
+}
+{
+  "userId": "id_0o1ps81gc",
+  "chosenImage": "http://localhost:3000/german_food/k_22429.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_49991.jpg",
+    "http://localhost:3000/german_food/k_22429.jpg",
+    "http://localhost:3000/german_food/k_35167.jpg"
+  ]
+}
+{
+  "userId": "id_0o1ps81gc",
+  "chosenImage": "http://localhost:3000/german_food/k_110844.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_110844.jpg",
+    "http://localhost:3000/german_food/k_49991.jpg",
+    "http://localhost:3000/german_food/k_35167.jpg"
+  ]
+}
+{
+  "userId": "id_0o1ps81gc",
+  "chosenImage": "http://localhost:3000/german_food/k_81683.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_35887.jpg",
+    "http://localhost:3000/german_food/k_35167.jpg",
+    "http://localhost:3000/german_food/k_81683.jpg"
+  ]
+}
+{
+  "userId": "id_2mlhfggya",
+  "chosenImage": "http://localhost:3000/german_food/k_53708.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_23157.jpg",
+    "http://localhost:3000/german_food/k_53708.jpg",
+    "http://localhost:3000/german_food/k_57642.jpg"
+  ]
+}
+{
+  "userId": "id_2mlhfggya",
+  "chosenImage": "http://localhost:3000/german_food/k_23157.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_23157.jpg",
+    "http://localhost:3000/german_food/k_49991.jpg",
+    "http://localhost:3000/german_food/k_17750.jpg"
+  ]
+}
+{
+  "userId": "id_2mlhfggya",
+  "chosenImage": "http://localhost:3000/german_food/k_57642.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_49991.jpg",
+    "http://localhost:3000/german_food/k_53708.jpg",
+    "http://localhost:3000/german_food/k_57642.jpg"
+  ]
+}
+{
+  "userId": "id_2mlhfggya",
+  "chosenImage": "http://localhost:3000/german_food/k_50547.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_50547.jpg",
+    "http://localhost:3000/german_food/k_41465.jpg",
+    "http://localhost:3000/german_food/k_79698.jpg"
+  ]
+}
+{
+  "userId": "id_2mlhfggya",
+  "chosenImage": "http://localhost:3000/german_food/k_17750.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_81683.jpg",
+    "http://localhost:3000/german_food/k_17750.jpg",
+    "http://localhost:3000/german_food/k_110844.jpg"
+  ]
+}
+{
+  "userId": "id_2mlhfggya",
+  "chosenImage": "http://localhost:3000/german_food/k_22429.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_23157.jpg",
+    "http://localhost:3000/german_food/k_57642.jpg",
+    "http://localhost:3000/german_food/k_22429.jpg"
+  ]
+}
+{
+  "userId": "id_2nv1k0gl4",
+  "chosenImage": "http://localhost:3000/german_food/k_81683.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_81683.jpg",
+    "http://localhost:3000/german_food/k_35887.jpg",
+    "http://localhost:3000/german_food/k_23157.jpg"
+  ]
+}
+{
+  "userId": "id_2nv1k0gl4",
+  "chosenImage": "http://localhost:3000/german_food/k_57642.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_45291.jpg",
+    "http://localhost:3000/german_food/k_57642.jpg",
+    "http://localhost:3000/german_food/k_35887.jpg"
+  ]
+}
+{
+  "userId": "id_2nv1k0gl4",
+  "chosenImage": "http://localhost:3000/german_food/k_25427.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_25427.jpg",
+    "http://localhost:3000/german_food/k_49991.jpg",
+    "http://localhost:3000/german_food/k_17750.jpg"
+  ]
+}
+{
+  "userId": "id_w2yrqyzvx",
+  "chosenImage": "http://localhost:3000/german_food/k_79698.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_79698.jpg",
+    "http://localhost:3000/german_food/k_17750.jpg",
+    "http://localhost:3000/german_food/k_57642.jpg"
+  ]
+}
+{
+  "userId": "id_w2yrqyzvx",
+  "chosenImage": "http://localhost:3000/german_food/k_53708.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_22429.jpg",
+    "http://localhost:3000/german_food/k_17750.jpg",
+    "http://localhost:3000/german_food/k_53708.jpg"
+  ]
+}
+{
+  "userId": "id_w2yrqyzvx",
+  "chosenImage": "http://localhost:3000/german_food/k_79698.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_79698.jpg",
+    "http://localhost:3000/german_food/k_35887.jpg",
+    "http://localhost:3000/german_food/k_22429.jpg"
+  ]
+}
+{
+  "userId": "id_e1efzqrpy",
+  "chosenImage": "http://localhost:3000/german_food/k_81683.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_110844.jpg",
+    "http://localhost:3000/german_food/k_53708.jpg",
+    "http://localhost:3000/german_food/k_81683.jpg"
+  ]
+}
+{
+  "userId": "id_e1efzqrpy",
+  "chosenImage": "http://localhost:3000/german_food/k_35167.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_17750.jpg",
+    "http://localhost:3000/german_food/k_35167.jpg",
+    "http://localhost:3000/german_food/k_25427.jpg"
+  ]
+}
+{
+  "userId": "id_e1efzqrpy",
+  "chosenImage": "http://localhost:3000/german_food/k_81683.jpg",
+  "availableImages": [
+    "http://localhost:3000/german_food/k_81683.jpg",
+    "http://localhost:3000/german_food/k_79698.jpg",
+    "http://localhost:3000/german_food/k_41465.jpg"
+  ]
+}

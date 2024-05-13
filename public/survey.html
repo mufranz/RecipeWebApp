@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey</title>
+    <link rel="stylesheet" href="style_survey.css">
+</head>
+<body>
+    <div id="survey-container">
+        <div id="intro-container">
+            <h1>Fragebogen</h1>
+            <p>[Your introductory or informational text goes here]</p>
+        </div>
+
+
+
+    <form id="survey-form">
+        <label for="age">What is your age?</label>
+        <input type="number" id="age" name="age" min="0" max="120"><br>
+        <br>
+
+        <label for="gender">What is your gender?</label>
+        <select id="gender" name="gender">
+            <option value="male">männlich</option>
+            <option value="female">weiblich</option>
+            <option value="diverse">divers</option>
+            <option value="no_answer">Keine Angabe</option>
+        </select><br><br>
+
+        <fieldset>
+            <legend>Was beschreibt ihr Essverhalten am besten?</legend>
+            <label><input type="radio" name="eating-habit" value="vegetarian"> Vegetarisch</label>
+            <label><input type="radio" name="eating-habit" value="vegan"> Vegan</label>
+            <label><input type="radio" name="eating-habit" value="pescatarian"> Pescetarisch</label>
+            <label><input type="radio" name="eating-habit" value="carnivore"> Carnivore</label>
+            <label><input type="radio" name="eating-habit" value="none"> Nichts</label>
+        </fieldset><br>
+
+        <fieldset>
+            <legend>Wie oft besuchen sie Online Rezeptseiten?</legend>
+            <label><input type="radio" name="recipe-site-visit" value="never"> nie</label>
+            <label><input type="radio" name="recipe-site-visit" value="1-2-times-a-month"> 1-2 mal pro Monat</label>
+            <label><input type="radio" name="recipe-site-visit" value="weekly"> wöchentlich</label>
+            <label><input type="radio" name="recipe-site-visit" value="multiple-times-a-week"> mehrmals die Woche</label>
+            <label><input type="radio" name="recipe-site-visit" value="daily"> täglich</label>
+        </fieldset><br>
+        
+        <fieldset>
+            <legend>Wie oft in der Woche essen sie eine gekochte Mahlzeit?</legend>
+            <label><input type="radio" name="cooked-meal-frequency" value="never"> nie</label>
+            <label><input type="radio" name="cooked-meal-frequency" value="1-2-times"> 1-2 Mal</label>
+            <label><input type="radio" name="cooked-meal-frequency" value="3-4-times"> 3-4 Mal</label>
+            <label><input type="radio" name="cooked-meal-frequency" value="5-6-times"> 5-6 Mal</label>
+            <label><input type="radio" name="cooked-meal-frequency" value="daily"> täglich</label>
+        </fieldset><br>
+        
+        <fieldset>
+            <legend>Wie würden Sie selbst ihre Kocherfahrung beschreiben?</legend>
+            <label><input type="radio" name="cooking-experience" value="1"> 1 (very low)</label>
+            <label><input type="radio" name="cooking-experience" value="2"> 2</label>
+            <label><input type="radio" name="cooking-experience" value="3"> 3</label>
+            <label><input type="radio" name="cooking-experience" value="4"> 4</label>
+            <label><input type="radio" name="cooking-experience" value="5"> 5 (very high)</label>
+        </fieldset><br>
+
+        <button type="submit">Submit Survey</button>
+    </form>
+    </div>
+
+    <!-- After the form -->
+    <div id="thank-you-message" style="display: none;">
+        <p>Vielen Dank für Ihre Teilnahme an der Umfrage.</p>
+    </div>
+
+    <script>
+        document.getElementById('survey-form').addEventListener('submit', function(event) {
+            event.preventDefault();
+            var age = document.getElementById('age').value;
+            var gender = document.getElementById('gender').value;
+            var eatingHabit = document.querySelector('input[name="eating-habit"]:checked').value;
+            var websiteVisits = document.querySelector('input[name="recipe-site-visit"]:checked').value;
+            var homecookedMeal = document.querySelector('input[name="cooked-meal-frequency"]:checked').value;
+            var cookingExperience = document.querySelector('input[name="cooking-experience"]:checked').value;
+            var uniqueId = localStorage.getItem('surveyUserId');
+
+            var surveyData = {
+                userId: uniqueId,
+                age: age,
+                gender: gender,
+                eatingHabit: eatingHabit,
+                websiteVisits: websiteVisits,
+                homecookedMeal: homecookedMeal,
+                cookingExperience: cookingExperience
+            };
+
+            // Send the surveyData to the server
+            fetch('http://localhost:3000/survey', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(surveyData),
+            })
+            .then(response => {
+                if (response.ok) {
+                    return response.text(); 
+                } else {
+                    throw new Error('Network response was not ok.');
+                }
+            })
+            .then(data => {
+                console.log('Success:', data);
+                document.getElementById('survey-container').style.display = 'none';
+                document.getElementById('thank-you-message').style.display = 'block';
+            })
+            .catch((error) => {
+                console.error('Error:', error);
+                alert('An error occurred while submitting the survey. Please try again.');
+            });
+        });
+    </script>
+</body>
+</html>

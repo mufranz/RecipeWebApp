@@ -1,0 +1,113 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    color: #444;
+    text-align: center;
+}
+
+p {
+    color: #444;
+    text-align: center;
+}
+
+#survey-container {
+    background-color: white;
+    width: 80%; /* Default width */
+    margin: auto;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+/* Responsive Adjustments */
+@media (min-width: 1024px) {
+    #survey-container {
+        width: 60%; /* Smaller width for larger screens */
+    }
+}
+
+@media (max-width: 768px) {
+    #survey-container {
+        width: 90%; /* Wider for medium screens */
+    }
+}
+
+@media (max-width: 480px) {
+    #survey-container {
+        width: 100%; /* Full width for small screens */
+        box-shadow: none;
+    }
+}
+
+form {
+    background: white;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+fieldset {
+    border: none;
+    margin: 10px 0;
+    padding: 0;
+}
+
+label {
+    margin-right: 15px;
+    font-size: 14px;
+}
+
+input[type="radio"] {
+    margin-right: 5px;
+}
+
+button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    form {
+        width: 90%;
+        margin: 20px auto;
+    }
+
+    button {
+        width: auto;
+    }
+}
+
+
+
+#thank-you-message {
+    padding: 20px;
+    background-color: #e9ecef;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    text-align: center;
+    margin-top: 20px;
+}
+
+#thank-you-message p {
+    color: #333;
+    font-size: 20px; 
+}

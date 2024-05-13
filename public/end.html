@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thank You</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+
+        .thank-you-message {
+            max-width: 600px;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            border-radius: 5px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        p {
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="thank-you-message">
+        <h1></h1>
+        <p>Ihre Auswahl der Rezepte wurde erfolgreich anonym gespeichert. Sie können die Studie  noch ein zweites mal durchführen, klicken Sie dafür auf den <b>Studie erneut durchführen</b> Button. Ansonsten werden sie mit einem Klick auf den <b>Studie beenden</b> zum abschließenden Fragebogen weitergeleitet. </p>
+        <button id="restart-survey">Studie erneut durchführen</button>
+        <button id="finish-study">Studie beenden</button>
+    </div>
+    <script>
+        // Check the number of completions and hide "Start Survey Again" if necessary
+        var completions = localStorage.getItem("surveyCompletions") || 0;
+        if (completions >= 2) {
+            document.getElementById('restart-survey').style.display = 'none';
+
+            var messageElement = document.querySelector('.thank-you-message p');
+            messageElement.innerHTML = "Vielen Dank für Ihre Teilnahme! Ihre Meinung ist uns sehr wichtig. Mit einem Klick auf den <b>Studie beenden</b> Button werden Sie zum abschließenden Fragebogen weitergeleitet.";
+        }
+        
+        document.getElementById('restart-survey').addEventListener('click', function() {
+            window.location.href = 'index.html'; // Replace with the path to your survey start page
+        });
+
+        document.getElementById('finish-study').addEventListener('click', function() {
+            // Redirect to the survey page (update the URL to your survey page)
+            window.location.href = 'survey.html';
+        });
+    </script>
+</body>
+</html>
