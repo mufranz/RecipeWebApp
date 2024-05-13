@@ -1,61 +1,46 @@
+// Load environment variables from .env file
+require('dotenv').config();
+
 const express = require('express');
-const path = require('path');
 const bodyParser = require('body-parser');
-const { MongoClient } = require('mongodb');
+const { MongoClient, ServerApiVersion } = require('mongodb');
 
+// Create Express application
 const app = express();
-const port = process.env.PORT || 3000;  // This will use the PORT environment variable if available or default to 3000
+app.use(bodyParser.json()); // Middleware for parsing JSON bodies
 
-// MongoDB URI from environment variables
+// MongoDB URI and client setup
 const uri = process.env.MONGODB_URI;
-const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true });
-
-app.use(bodyParser.json()); // For parsing application/json
-app.use(express.static(path.join(__dirname, 'public')));
-
-// POST endpoint for saving choice data
-app.post('/', async (req, res) => {
-    try {
-        await client.connect();
-        const database = client.db("yourDatabaseName");
-        const choices = database.collection("choices");
-        const choiceData = req.body;
-
-        const result = await choices.insertOne(choiceData);
-        console.log(`Choice data inserted with ID: ${result.insertedId}`);
-        res.send('Choice data saved to MongoDB');
-    } catch (err) {
-        console.error('Error connecting to MongoDB', err);
-        res.status(500).send('Error saving data');
-    } finally {
-        await client.close();
-    }
+const client = new MongoClient(uri, {
+  serverApi: {
+    version: ServerApiVersion.v1,
+    strict: true,
+    deprecationErrors: true,
+  }
 });
 
-// POST endpoint for saving survey data
+// Define port from environment variable or default
+const port = process.env.PORT || 3000;
+
+// Route to handle POST requests to /survey
 app.post('/survey', async (req, res) => {
-    try {
-        await client.connect();
-        const database = client.db("yourDatabaseName");
-        const surveys = database.collection("surveys");
-        const surveyData = req.body;
+  try {
+    await client.connect();
+    const database = client.db("yourDatabaseName"); // Replace with your actual database name
+    const surveys = database.collection('surveys');
 
-        // Simple validation
-        if (!surveyData.age || !surveyData.gender) {
-            return res.status(400).send('Missing required fields');
-        }
-
-        const result = await surveys.insertOne(surveyData);
-        console.log(`Survey data inserted with ID: ${result.insertedId}`);
-        res.send('Survey data saved to MongoDB');
-    } catch (err) {
-        console.error('Error connecting to MongoDB', err);
-        res.status(500).send('Error saving survey data');
-    } finally {
-        await client.close();
-    }
+    const surveyData = req.body;
+    await surveys.insertOne(surveyData);
+    res.status(200).send('Survey data saved successfully');
+  } catch (err) {
+    console.error('Failed to save survey data:', err);
+    res.status(500).send('Error saving survey data');
+  } finally {
+    await client.close();
+  }
 });
 
+// Start the server
 app.listen(port, () => {
-    console.log(`Server running at http://localhost:${port}`);
+  console.log(`Server running on port ${port}`);
 });
