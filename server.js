@@ -26,7 +26,7 @@ const port = process.env.PORT || 3000;
 app.post('/survey', async (req, res) => {
   try {
     await client.connect();
-    const database = client.db("yourDatabaseName"); // Replace with your actual database name
+    const database = client.db("RecipeCluster"); // Replace with your actual database name
     const surveys = database.collection('surveys');
 
     const surveyData = req.body;
@@ -39,6 +39,23 @@ app.post('/survey', async (req, res) => {
     await client.close();
   }
 });
+
+app.post('/task', async (req, res) => {
+    try {
+      await client.connect();
+      const database = client.db("RecipeCluster"); // Ensure this matches your MongoDB database name
+      const tasks = database.collection('tasks');
+  
+      const taskData = req.body;
+      await tasks.insertOne(taskData);
+      res.status(200).send('Task data saved successfully');
+    } catch (err) {
+      console.error('Failed to save task data:', err);
+      res.status(500).send('Error saving task data');
+    } finally {
+      await client.close();
+    }
+  });
 
 // Start the server
 app.listen(port, () => {

@@ -86,21 +86,28 @@ function saveChoiceAndReload() {
         console.log(choiceData);
 
         // Send the choiceData to the server
-        fetch('http://localhost:3000/', {
+        fetch('/task', {  // Updated to use relative URL and the new endpoint
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
             },
             body: JSON.stringify(choiceData),
         })
-        .then(response => response.text())
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok.');
+            }
+            return response.text();
+        })
         .then(data => {
             console.log('Success:', data);
-            reloadImages();
+            reloadImages(); // This function should handle the logic to move to the next set of images or end the session
         })
         .catch((error) => {
             console.error('Error:', error);
+            alert('An error occurred while submitting your choice. Please try again.');
         });
+
 
         // Increment the task counter
         taskCount++;
