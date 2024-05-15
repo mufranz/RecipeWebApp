@@ -2,11 +2,13 @@
 require('dotenv').config();
 
 const express = require('express');
+const cors = require('cors');
 const bodyParser = require('body-parser');
 const { MongoClient, ServerApiVersion } = require('mongodb');
 
 // Create Express application
 const app = express();
+app.use(cors()); // Enable CORS for all routes
 app.use(bodyParser.json()); // Middleware for parsing JSON bodies
 
 // MongoDB URI and client setup

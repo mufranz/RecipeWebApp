@@ -2,7 +2,6 @@ var recipes = [];
 var taskCount = 0; 
 localStorage.clear();
 
-
 document.addEventListener('DOMContentLoaded', function() {
     var isSecondAttempt = localStorage.getItem("secondAttempt") === "true";
     var startScreen = document.getElementById("start-screen");
@@ -27,7 +26,6 @@ document.addEventListener('DOMContentLoaded', function() {
             console.error('Error:', error);
         });
 
-
     var startButton = document.getElementById("start-button");
     startButton.addEventListener("click", function() {
         var completions = localStorage.getItem("surveyCompletions") || 0;
@@ -38,7 +36,6 @@ document.addEventListener('DOMContentLoaded', function() {
         }
         
         taskCount = 0;
-
 
          // Generate a unique identifier
         var uniqueId = 'id_' + Math.random().toString(36).substr(2, 9);
@@ -53,8 +50,6 @@ document.addEventListener('DOMContentLoaded', function() {
         startSurvey();
     });
 });
-
-
 
 function startSurvey() {
     displayImages();
@@ -86,7 +81,7 @@ function saveChoiceAndReload() {
         console.log(choiceData);
 
         // Send the choiceData to the server
-        fetch('/task', {  // Updated to use relative URL and the new endpoint
+        fetch('/task', {  // Use relative URL for Vercel
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
@@ -107,7 +102,6 @@ function saveChoiceAndReload() {
             console.error('Error:', error);
             alert('An error occurred while submitting your choice. Please try again.');
         });
-
 
         // Increment the task counter
         taskCount++;
@@ -213,8 +207,6 @@ function displayImages() {
         imageContainer.appendChild(recipeContainer);
     }
 }
-
-var images = selectAndShuffleImages();
 
 // Initial call to display images and recipes
 displayImages();
