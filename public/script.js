@@ -71,17 +71,17 @@ function saveChoiceAndReload() {
 
     if (selectedRecipe) {
         var selectedImage = selectedRecipe.querySelector("img");
-        var uniqueId = localStorage.getItem("surveyUserId");
+        var uniqueId = localStorage.getItem("surveyUserId"); // Retrieve the identifier
 
         var choiceData = {
-            userId: uniqueId,
-            chosenImage: selectedImage.src,
-            availableImages: Array.from(imageContainer.querySelectorAll("img")).map(img => img.src)
+            userId: uniqueId, // Use the unique identifier
+            chosenImage: selectedImage.src, // src of the selected image
+            availableImages: Array.from(imageContainer.querySelectorAll("img")).map(img => img.src) // src of all images
         };
         console.log(choiceData);
 
         // Send the choiceData to the server
-        fetch('/api/task', { // Update this to be relative to the root of the application
+        fetch('/api/task', {  // Use relative URL for Vercel
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
@@ -96,7 +96,7 @@ function saveChoiceAndReload() {
         })
         .then(data => {
             console.log('Success:', data);
-            reloadImages();
+            reloadImages(); // This function should handle the logic to move to the next set of images or end the session
         })
         .catch((error) => {
             console.error('Error:', error);
@@ -106,23 +106,27 @@ function saveChoiceAndReload() {
         // Increment the task counter
         taskCount++;
         if (taskCount >= 3) {
+                // Increment and save the completion count
             var completions = (localStorage.getItem("surveyCompletions") || 0) + 1;
             localStorage.setItem("surveyCompletions", completions);
 
             if (completions < 2) {
+                // Set flag for second attempt
                 localStorage.setItem("secondAttempt", "true");
             } else {
+                // Clear the flag as the user has completed the survey twice
                 localStorage.removeItem("secondAttempt");
             }
 
             window.location.href = 'end.html';
-            return;
+            return; // Exit the function
         }
     } else {
         alert("Bitte wählen Sie ein Rezept aus");
     }
-    window.scrollTo(0, 0);
+    window.scrollTo(0, 0); // Scroll to top after reloading recipes.
 }
+
 
 
 // Function to reload images and shuffle recipes
