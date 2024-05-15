@@ -5,11 +5,15 @@ const express = require('express');
 const cors = require('cors');
 const bodyParser = require('body-parser');
 const { MongoClient, ServerApiVersion } = require('mongodb');
+const path = require('path');
 
 // Create Express application
 const app = express();
 app.use(cors()); // Enable CORS for all routes
 app.use(bodyParser.json()); // Middleware for parsing JSON bodies
+
+// Serve static files from the 'public' directory
+app.use(express.static(path.join(__dirname, 'public')));
 
 // MongoDB URI and client setup
 const uri = process.env.MONGODB_URI;
@@ -47,6 +51,7 @@ app.listen(PORT, async () => {
 
 // Route to handle POST requests to /api/survey
 app.post('/api/survey', async (req, res) => {
+  console.log('Received /api/survey request');
   try {
     if (!dbClient) {
       throw new Error('No database connection');
@@ -63,6 +68,7 @@ app.post('/api/survey', async (req, res) => {
 
 // Route to handle POST requests to /api/task
 app.post('/api/task', async (req, res) => {
+  console.log('Received /api/task request');
   try {
     if (!dbClient) {
       throw new Error('No database connection');
@@ -75,4 +81,9 @@ app.post('/api/task', async (req, res) => {
     console.error('Failed to save task data:', err);
     res.status(500).send('Error saving task data');
   }
+});
+
+// Fallback route for serving index.html
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
