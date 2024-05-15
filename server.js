@@ -1,4 +1,3 @@
-// Load environment variables from .env file
 require('dotenv').config();
 
 const express = require('express');
@@ -7,18 +6,12 @@ const bodyParser = require('body-parser');
 const { MongoClient, ServerApiVersion } = require('mongodb');
 const path = require('path');
 
-// Create Express application
 const app = express();
-app.use(cors()); // Enable CORS for all routes
-app.use(bodyParser.json()); // Middleware for parsing JSON bodies
-
-// Serve static files from the 'public' directory
+app.use(cors());
+app.use(bodyParser.json());
 app.use(express.static(path.join(__dirname, 'public')));
 
-// MongoDB URI and client setup
 const uri = process.env.MONGODB_URI;
-console.log(`MongoDB URI: ${uri}`);
-
 const client = new MongoClient(uri, {
   serverApi: {
     version: ServerApiVersion.v1,
@@ -28,28 +21,35 @@ const client = new MongoClient(uri, {
   connectTimeoutMS: 10000 // 10 seconds timeout
 });
 
-let dbClient;
+let dbClient = null;
 
-// Function to connect to MongoDB
-async function connectToMongoDB() {
-  try {
-    await client.connect();
-    console.log('Connected to MongoDB');
-    dbClient = client.db("RecipeCluster"); // Replace "RecipeCluster" with your actual database name if different
-  } catch (err) {
-    console.error('Failed to connect to MongoDB', err);
-    process.exit(1); // Exit process if connection fails
+async function connectToMongoDB(retries = 5) {
+  while (retries > 0) {
+    try {
+      await client.connect();
+      console.log('Connected to MongoDB');
+      dbClient = client.db("RecipeCluster"); // Replace "RecipeCluster" with your actual database name if different
+      break; // Exit the loop if connection is successful
+    } catch (err) {
+      console.error('Failed to connect to MongoDB', err);
+      retries -= 1;
+      console.log(`Retries left: ${retries}`);
+      await new Promise(res => setTimeout(res, 5000)); // Wait for 5 seconds before retrying
+    }
+  }
+
+  if (!dbClient) {
+    console.error('Could not establish a connection to MongoDB. Exiting...');
+    process.exit(1); // Exit the process if the connection could not be established
   }
 }
 
-// Start the Express server
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, async () => {
   console.log(`Server running on port ${PORT}`);
-  await connectToMongoDB(); // Attempt to connect to MongoDB after server starts
+  await connectToMongoDB();
 });
 
-// Route to handle POST requests to /api/survey
 app.post('/api/survey', async (req, res) => {
   console.log('Received /api/survey request');
   try {
@@ -58,6 +58,7 @@ app.post('/api/survey', async (req, res) => {
     }
     const surveys = dbClient.collection('surveys');
     const surveyData = req.body;
+    console.log('Survey data:', surveyData); // Log the survey data
     await surveys.insertOne(surveyData);
     res.status(200).send('Survey data saved successfully');
   } catch (err) {
@@ -66,7 +67,6 @@ app.post('/api/survey', async (req, res) => {
   }
 });
 
-// Route to handle POST requests to /api/task
 app.post('/api/task', async (req, res) => {
   console.log('Received /api/task request');
   try {
@@ -75,6 +75,7 @@ app.post('/api/task', async (req, res) => {
     }
     const tasks = dbClient.collection('tasks');
     const taskData = req.body;
+    console.log('Task data:', taskData); // Log the task data
     await tasks.insertOne(taskData);
     res.status(200).send('Task data saved successfully');
   } catch (err) {
@@ -83,7 +84,6 @@ app.post('/api/task', async (req, res) => {
   }
 });
 
-// Fallback route for serving index.html
 app.get('*', (req, res) => {
   res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
