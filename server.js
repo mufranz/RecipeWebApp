@@ -34,6 +34,7 @@ async function connectToMongoDB() {
     dbClient = client.db("RecipeCluster"); // Replace "RecipeCluster" with your actual database name if different
   } catch (err) {
     console.error('Failed to connect to MongoDB', err);
+    process.exit(1); // Exit process if connection fails
   }
 }
 
