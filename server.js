@@ -45,7 +45,7 @@ app.listen(PORT, async () => {
 });
 
 // Route to handle POST requests to /survey
-app.post('/survey', async (req, res) => {
+app.post('/survey.html', async (req, res) => {
   try {
     if (!dbClient) {
       throw new Error('No database connection');
