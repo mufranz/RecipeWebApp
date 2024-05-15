@@ -96,11 +96,8 @@
                 cookingExperience: cookingExperience
             };
 
-            // Setting the base URL dynamically
-            var baseUrl = window.location.hostname === 'localhost' ? 'http://localhost:3000' : 'https://recipe-web-app-one.vercel.app';
-
             // Send the survey data to the server
-            fetch(`/survey.html`, {
+            fetch('/api/survey', { // Update this to be relative to the root of the application
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',

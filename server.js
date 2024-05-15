@@ -44,8 +44,8 @@ app.listen(PORT, async () => {
   await connectToMongoDB(); // Attempt to connect to MongoDB after server starts
 });
 
-// Route to handle POST requests to /survey
-app.post('/survey.html', async (req, res) => {
+// Route to handle POST requests to /api/survey
+app.post('/api/survey', async (req, res) => {
   try {
     if (!dbClient) {
       throw new Error('No database connection');
@@ -60,8 +60,8 @@ app.post('/survey.html', async (req, res) => {
   }
 });
 
-// Route to handle POST requests to /task
-app.post('/task', async (req, res) => {
+// Route to handle POST requests to /api/task
+app.post('/api/task', async (req, res) => {
   try {
     if (!dbClient) {
       throw new Error('No database connection');
