@@ -105,7 +105,7 @@ function saveChoiceAndReload() {
 
         // Increment the task counter
         taskCount++;
-        if (taskCount >= 3) {
+        if (taskCount >= 10) {
                 // Increment and save the completion count
             var completions = (localStorage.getItem("surveyCompletions") || 0) + 1;
             localStorage.setItem("surveyCompletions", completions);
