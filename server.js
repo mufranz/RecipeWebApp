@@ -105,21 +105,6 @@ app.post('/api/task', async (req, res) => {
   }
 });
 
-// Test MongoDB connection route
-app.get('/api/test-mongodb', async (req, res) => {
-  console.log('Received /api/test-mongodb request');
-  if (!dbClient) {
-    await connectToMongoDB();
-  }
-  try {
-    console.log('Reusing existing MongoDB connection');
-    res.status(200).send('Connected to MongoDB successfully');
-  } catch (err) {
-    console.error('Failed to connect to MongoDB:', err.message);
-    res.status(500).send('Failed to connect to MongoDB');
-  }
-});
-
 app.get('*', (req, res) => {
   res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
