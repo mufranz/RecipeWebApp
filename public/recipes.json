@@ -1,363 +1,347 @@
 {
-    "recipes": [
-      {
-        "title": "Gulasch vom Schwein",
-        "image": "german_food/k_25427.jpg",
-        "ingredients": [
-          { "name": "Schwein Gulasch", "amount": "1 kg" },
-          { "name": "Paprika rot", "amount": "2 Stück" },
-          { "name": "Paprika gelb", "amount": "1 Stück" },
-          { "name": "Zwiebel frisch", "amount": "4 Stück" },
-          { "name": "Fleischsuppe klar Brühwürfel", "amount": "3 Stück" },
-          { "name": "Wasser", "amount": "1200 ml" },
-          { "name": "Tomatenmark", "amount": "1 Schuss" },
-          { "name": "Knoblauch frisch", "amount": "1 Stück" },
-          { "name": "Sonnenblumenöl", "amount": "1 Schuss" },
-          { "name": "Salz", "amount": "etwas" },
-          { "name": "Pfeffer", "amount": "etwas" },
-          { "name": "Paprika edelsüß", "amount": "etwas" },
-          { "name": "Schlagsahne", "amount": "1 Schuss" }
-        ],
-        "directions": [
-          "Zwiebeln grob schneiden. Fleisch etwas kleiner schneiden (dann gart es schneller). Beides zusammen mit Salz, Pfeffer und Paprika gut im heissen Öl anbraten bis es Farbe annimmt. Knoblauch und Tomatenmark hineinpressen und gut rühren.",
-          "Paprika waschen und würfeln. Mit in den Topf geben. Mit anbraten lassen. Mit Wasser aufgießen und warten bis es kocht. Gelegentlich umrühren. Wenn das Wasser kocht je nach Geschmack die Brühwürfel zugeben. Deckel drauf und ca. 90 Minuten bei niedriger Hitze köcheln lassen. Gelegentlich umrühren.",
-          "Je nach Geschmack und Vorlieben kann noch Ketchup dazu gegeben werden und die Soße angedickt werden. Mit Sahne verfeinern. Servieren Sie dazu Nudeln, Spätzle oder Kartoffelknödel. Mahlzeit!"
-        ]
-      },
-      {
-        "title": "Schweinerollbraten in Biersosse",
-        "image": "german_food/k_41465.jpg",
-        "ingredients": [
-          { "name": "Gefüllter Schweinerollbraten", "amount": "1200 Gramm" },
-          { "name": "Öl", "amount": "etwas" },
-          { "name": "Zwiebeln", "amount": "6" },
-          { "name": "Kümmel", "amount": "1 Esslöffel" },
-          { "name": "Majoran", "amount": "1 Esslöffel" },
-          { "name": "Lorbeerblatt", "amount": "1" },
-          { "name": "Tomatenmark", "amount": "1 Döschen" },
-          { "name": "Pilsbier", "amount": "1 Flasche" },
-          { "name": "Salz, Pfeffer", "amount": "etwas" },
-          { "name": "Rama Cremefine 7 %", "amount": "1 Flasche" },
-          { "name": "Soßenbinder dunkel", "amount": "etwas" }
-        ],
-        "directions": [
-          "Im Bräter Öl heiß werden lassen und den vom Metzger vorbereiteten Rollbraten von allen Seiten gut anbraten. Dann herausnehmen.",
-          "Die geschälten und in grobe Stücke geschnittenen Zwiebeln ins Bratfett geben. Kümmel, Majoran, Lorbeerblatt und Tomatenmark dazugeben und alles gut anschmoren lassen. Mit Bier ablöschen, mit Salz und Pfeffer abschmecken und den Rollbraten wieder daraufgeben.",
-          "Den Rollbraten im offenen Bräter im Backofen bei 150° Umluft ca. 1- 1,5 Stunde schmoren lassen. Bei Bedarf noch etwas Wasser nachgießen.",
-          "Den Rollbraten rausnehmen und eine Flasche Cremefine in die Soße geben. Aufkochen lassen und nochmals abschmecken. Wer will kann die Soße mit Soßenbinder oder Speisestärke binden.",
-          "Den Braten in Scheiben schneiden. Dazu gabs Salzkartoffeln und Erbsen."
-        ]        
-      },
-      {
-        "title": "Schinken Broccoli Auflauf",
-        "image": "german_food/k_22429.jpg",
-        "ingredients": [
-          { "name": "Spiralnudeln (Dreikornnudeln)", "amount": "400 Gramm" },
-          { "name": "Broccoli, recht groß", "amount": "1 Stück" },
-          { "name": "Schinken (Beinschinken)", "amount": "250 Gramm" },
-          { "name": "Kirschparadeiser", "amount": "10 Stück" },
-          { "name": "Geriebener Parmesan", "amount": "40 Gramm" },
-          { "name": "Mehl (für Bechamelsauce)", "amount": "3 EL" },
-          { "name": "Butter (für Bechamelsauce)", "amount": "80 Gramm" },
-          { "name": "Milch (für Bechamelsauce)", "amount": "400 ml" },
-          { "name": "Creme Fraiche (für Bechamelsauce)", "amount": "2 EL" },
-          { "name": "Dijonsenf (für Bechamelsauce)", "amount": "2 EL" },
-          { "name": "Tomatenmark (für Bechamelsauce)", "amount": "1 EL" },
-          { "name": "Salz, Pfeffer, geriebene Senfkörner", "amount": "etwas" }
-        ],
-        "directions": [
-          "Zuerst die Nudeln in reichlich Salzwasser bißfest kochen, abschrecken und in eine Schüssel füllen. Den Broccoli in kleine Röschen teilen, den dicken Strunk schälen und in Scheiben schneiden. Den Broccoli im Dampfgarer oder einfach in Wasser bißfest kochen, also nicht zu lange. Er soll noch schön fest sein. In eiskaltem Wasser abschrecken, zu den Nudeln mischen.",
-          "Den Schinken in feine Würfel schneiden. Tomaten waschen, würfeln. Beides unter die Nudeln mischen.",
-          "Die Butter in einem Topf zergehen lassen, das Mehl einrühren, mit der Milch aufgießen, rühren bis die Bechamel andickt. Wenn die Sauce zu dick ist, einfach noch mit Milch aufgießen. Jetzt Tomatenmark und Dijonsenf einrühren. Mit geriebenen Senfkörnern, Salz und Pfeffer würzen, die Creme Fraiche einrühren. Zu den gekochten Nudeln geben und verrühren.",
-          "Den Ofen auf 180 Grad Ober/Unterhitze vorheizen. Die Nudelmischung in eine gefettete Form füllen, mit dem geriebenen Parmesan bestreuen. Ca. 20 Minuten backen, die letzten 2 Minuten mit der Grillstufe, damit die Kruste schön knusprig wird.",
-          "Ich finde, dass der Broccoli besonders gut mit Senfaroma schmeckt, dazu passt sehr gut ein grüner Salat. Ich wünsch Euch viel Spaß beim Nachkochen."
-        ]        
-      },
-      {
-        "title": "Hauptgerichte Wirsing in Kokosmilch",
-        "image": "german_food/k_45291.jpg",
-        "ingredients": [
-          { "name": "Wirsingkopf", "amount": "1" },
-          { "name": "Hackfleisch gemischt", "amount": "300 g" },
-          { "name": "Speckwürfel", "amount": "125 g" },
-          { "name": "Zwiebel", "amount": "1" },
-          { "name": "Kokosmilch", "amount": "1 Dose" },
-          { "name": "Brühe instant", "amount": "1 TL" },
-          { "name": "Kümmel", "amount": "etwas" },
-          { "name": "Salz", "amount": "etwas" },
-          { "name": "Zucker", "amount": "etwas" },
-          { "name": "Vegeta Gewürz", "amount": "etwas" }
-        ],
-        "directions": [
-          "wirsing putzen vierteln, die dicken rippen entfernen und streifen schneiden. zwiebel pellen und würfeln.",
-          "speck in etwas fett auslassen, hackfleisch und die zwiebel zugeben, krümelig braten. wirsing zugeben, mit anschmoren bis er zusammengefallen ist. brühe, kümmel und salz zugeben und die kokosmilch angießen. aufkochen lassen und bei kleiner hitze ca. 15 min. garen. anschließend mit vegeta und zucker abschmecken.",
-          "dazu schmecken salzkartoffeln. meine familie hat dieses gericht geliebt vegeta gibt es in größeren geschäften. ich bekomme vegeta auch in türkischen läden."
-        ]        
-      },
-      {
-        "title": "Teriyaki Huehnerbrust mit karamellisierten Chili Fenchelgemuese",
-        "image": "german_food/k_53708.jpg",
-        "ingredients": [
-          { "name": "Hühnerbrüste", "amount": "2 Stk." },
-          { "name": "Fenchelknolle", "amount": "1 Stk." },
-          { "name": "Teriyaki Sauce", "amount": "2 EL" },
-          { "name": "Sojasoße dunkel", "amount": "2 EL" },
-          { "name": "Honig flüssig", "amount": "4 TL" },
-          { "name": "Weißwein trocken", "amount": "2 EL" },
-          { "name": "Chili getrocknet", "amount": "1 Stk." },
-          { "name": "Butter", "amount": "1 EL" },
-          { "name": "Olivenöl extra vergine", "amount": "2 EL" },
-          { "name": "Knoblauchzehe", "amount": "1 Stk." }
-        ],
-        "directions": [
-          "DIe Hühnerbrüste in einen Gefrierbeutel legen, Sojasauce, Teriyakisauce, die in Scheiben geschnittene Knoblauchzehe und 2 TL Honig dazugeben. Gefriebeutelende eng zusammendrehen und die Luft aus dem Beutel lassen. So wird das Huhn voll von der Marinade umschlossen.",
-          "Fenchel vom Strunk entfernen und ihn dann längs in Streifen schneiden. Hühnerbrüste aus den Beutel nehmen und mit Küchenpapier abtupfen. Marinade nicht wegwerfen!!!",
-          "Fenchelgemüse: In eine Pfanne die Butter und 1 EL Olivenöl geben. Wenn die Butter aufschäumt, den Fenchel dazugeben. Den Fenchel bei mittlerer Hitze braten. Wenn er leicht braun und fast gar ist, 2 TL Honig dazugeben, die trockene Chilischote darüber zerbröseln und den Fenchel gut darin umrühren. Mit dem Weißwein ablöschen und fertig garen lassen.",
-          "Hühnerbrüste: Gleichzeitig mit dem Fenchel gebe ich die Hühnerbrüste in eine Pfanne... Pfanne (kann auch gerne eine Grillpfanne sein) erhitzen und dann 1 EL Olivenöl reingeben. Hühnerbrust braten und ca nach der Hälfte der Garzeit den Knoblauch aus der Marinade dazugeben. Wenn das Huhn gar ist, die Marinade in die Pfanne geben und die Hühnerbrüste mit beiden Seiten durch die Marinade ziehen. Bon Appetit! P.S. Natürlich kann man das Huhn auch schon einige Stunden vorher marinieren."
-        ]
-      },
-      {
-        "title": "DIE SPECK WEG PASTA Spaghetti Carbonara die Light Version",
-        "image": "german_food/k_79698.jpg",
-        "ingredients": [
-          { "name": "Spaghetti", "amount": "150 Gramm" },
-          { "name": "Chilischoten rot", "amount": "3 Stück" },
-          { "name": "Knoblauchknolle asiatisch", "amount": "1 Stück" },
-          { "name": "Basilikumblätter", "amount": "6 Stück" },
-          { "name": "Olivenöl diavolo eigene Herstellung", "amount": "3 EL" },
-          { "name": "Salz und Pfeffer", "amount": "1 Prise" },
-          { "name": "Eier Freiland", "amount": "3 Stück" },
-          { "name": "Wasser gesalzen", "amount": "2 Liter" },
-          { "name": "Käse geraspelt", "amount": "1 Handvoll" }
-        ],
-        "directions": [
-          "Ich habe im Supermarkt meines Vertrauens eine neue Chilisorte entdeckt. Sie kommt aus Sambia ist zwar nicht ganz so scharf wie Habaneros aber sie hat ne wirklich gute Drehzahl. Wenn man sie im Mixer zerkleinert und eine Nase voll nimmt hat man die nächsten Wochen bestimmt keinen Schnupfen mehr. Mit den Jungs will ich wieder mal etwas neues ausprobieren. Pasta machen mich an und ich habe auch noch 3 Eier die ich mir vom Bauer aus der Nachbarschaft hole. Das ist der Vorteil wenn man auf dem Land wohnt. Ich sehe die Hühner wirklich frei rumlaufen, keine Legebatterie oder ähnliches. Bei den Zutaten liegen Spaghetti Carbonara nahe. Ein Blick in den Kühlschrank, kein Schinken und kein Speck. Warum also nicht ohne die Kalorienbomben.",
-          "Der Hunger ist groß, es ist auch schon etwas später. Also ans Werk. Ich stell schon mal das Wasser auf den Herd, es vorher in einen Topf zu schütten schadet auch nix, Ich schäle den Knofi, wasche und trockne die Chilis und schneide alles in grobe Stücke. Ich feuer alles in meinen elektrischen Reißwolf und lasse ihn seine Arbeit nicht zu gründlich machen damit alles noch etwas stückig ist. Alles zusammen mit dem Olio Divolo in der Keramikpfanne andünsten. Nicht zu scharf anbraten sonst explodiert die Küche und die Dunstabzugshaube seilt sich durchs Fenster ab.",
-          "Das Salzwasser kocht ich knalle die Pasta aus der Packung und werfe sie ins kochende Wasser ohne Rücksicht auf Verluste. Jetzt noch schnell die Eier in eine kleine Schüssel schlagen, mit den Gewürzen verquirlen und den Käse darin verteilen.",
-          "Die Nudeln nehme ich direkt mit der Zange aus dem Wasser schmeiße sie in die Pfanne u mische alles kräftig durch. Die Hitze reduzieren und ein paar Minuten warten. Zum Abschluß gieße ich die Ei-Käse-Masse über die Pasta. Langsam unterrühren. Das Ei soll nicht stocken, sondern die Nudeln mit einer Eisoße überziehen. Wer will kann noch etwas Käse darüberstreuen und nachwürzen. Wer es nicht soi scharf mag nimmt weniger oder eine andere Chilisorte. Freunde es war saulecker und richtig geil scharf und ich habe den Speck nicht vermisst. Probiert es mal aus. Buono Apetito"
-        ]
-      },
-      {
-        "title": "Bohnenauflauf mit Putenmedaillons",
-        "image": "german_food/k_17750.jpg",
-        "ingredients": [
-          { "name": "Grüne Bohnen", "amount": "400 Gramm" },
-          { "name": "Bohnenkraut", "amount": "2 Stengel" },
-          { "name": "Puteninnenfilet", "amount": "350 Gramm" },
-          { "name": "Butter", "amount": "30 Gramm" },
-          { "name": "Mehl", "amount": "3 Teelöffel" },
-          { "name": "Schlagsahne", "amount": "50 Gramm" },
-          { "name": "Salz, Pfeffer, Muskat", "amount": "etwas" },
-          { "name": "Öl zum Braten", "amount": "etwas" },
-          { "name": "Geriebener Käse", "amount": "etwas" }
-        ],
-        "directions": [
-          "Bohnen putzen, waschen, in mundgerechte Stücke schneiden. Bohnenkraut waschen. Mit den Bohnen in Salzwasser ca. 20 Minuten garen. Bohnenkraut herausnehmen. Bohnen abgiessen, abtropfen lassen. Das Gemüsewasser auffangen.",
-          "Fleisch waschen, trockentupfen, Medaillons schneiden. Mit Pfeffer und Salz würzen und in heißen Öl braten.",
-          "Die Bohnen in einer gefetteten Auflaufform verteilen. In einem Topf Butter zerlassen. Das Mehl dazugeben und anschwitzen. Mit 150 ml Gemüsewasser ablöschen. Schlagsahne dazugeben. Mit Pfeffer und Muskat würzen. Das Ganze über die Bohnen giessen. Die Medaillons auf den Bohnen verteilen.",
-          "Alles mit Käse bestreuen und im Backofen bei 200 Grad ca. 10 Minuten überbacken."
-        ]
-      },
-      {
-        "title": "Geduenstete Rindsschnitzel",
-        "image": "german_food/k_50547.jpg",
-        "ingredients": [
-          { "name": "Rostbratenried oder Rindsschnitzel - Hüferlscherzel", "amount": "800 gr" },
-          { "name": "Salz", "amount": "etwas" },
-          { "name": "Pfeffer aus der Mühle schwarz", "amount": "etwas" },
-          { "name": "Estragonsenf", "amount": "2 kl. Löffel" },
-          { "name": "Öl", "amount": "2 EL" },
-          { "name": "Zwiebeln fein geschnitten", "amount": "100 gr" },
-          { "name": "Mehl, glatt", "amount": "2 kl. Löffel" },
-          { "name": "Wasser oder Rindsuppe", "amount": "½ l" },
-          { "name": "Rotwein", "amount": "⅛ l" },
-          { "name": "Rindsuppe", "amount": "3/8 l" },
-          { "name": "Wurzelgemüse und Zwiebel (optional)", "amount": "etwas" },
-          { "name": "Kapern", "amount": "10 Stk." },
-          { "name": "Essiggurkerl", "amount": "3 Stk." },
-          { "name": "Sauerrahm - saure Sahne", "amount": "⅛ l" },
-          { "name": "Mehl (für die Sauce)", "amount": "20 gr" }
-        ],
-        "directions": [
-          "4 Stück Rostbraten (bzw. Rinsschnitzel) quer zur Faser schneiden.",
-          "Gleichmäßig zwischen einer Frischhaltefolie ca. 5 mm dünn plattiern, Ränder einschneiden.",
-          "Rostbraten beitseitig würzen, auf einer Seite mit Senf bestreichen. Öl in flacher Kasserolle erhitzen, Fleisch mit der bestrichenen Seiten nach oben einlegen, rasant anbraten, wenden, kurz auf der zweiten Seite braten aus der Kasserolle heben.",
-          "Im verbleibenden Brattfett Zwiebeln anschwitzen (evtl. Wurzelgemüse mitrösten), Mehl einrühren mitrösten Flüssigkeit zugießen, verrühren bis sich der Bratensatz löst.",
-          "Das Fleisch in den Saft legen, zugedeckt im heißen Backrohr bei 180 Grad C ca, 1/2 Stunde dünsten (bei Rindsschnitzel vielleicht etwas länger). Bei Bedarf Flüssigkeit zugießen.",
-          "Für die Sauce Rindschnitzel herausheben, den Saft mit dem Mixer gut durchpürieren Den Sauerrahm mit Mehl verquirlen und zu den Saft geben, mit den Rindsschnitzel kurz aufkochen lassen und servieren.",
-          "Beilage: Nudeln, Kartoffelkroketten, Schupfnudeln oder Kartoffelpüree.",
-          "Variationen: Den Saft mit 1/8 Sauerrahn und 20 g Mehl binden.",
-          "Die Sauce mit gehackten Kräutern, Estragon- oder Dijomsenf, Rotwein, Kapern, gebratenen Pilzen, mirgedünsteten Wurzelstreifen, grünem Pfeffer, Scharlotten od. gehackten Essiggurken variieren."
-        ]
-      },
-      {
-        "title": "Ärpel mit Schlat und gebratene Blutwurst",
-        "image": "german_food/k_35887.jpg",
-        "ingredients": [
-          { "name": "Kartoffeln geschält frisch, mehlig, in Würfel", "amount": "800 gr." },
-          { "name": "Milch, heiß", "amount": "1 l" },
-          { "name": "Salz, Muskat, Butter", "amount": "etwas" },
-          { "name": "Endivien frisch, gewaschen und in feine Streifen", "amount": "1 Stk." },
-          { "name": "Zwiebel gewürfelt", "amount": "1 Stk." },
-          { "name": "Rauchspeck fein gewürfelt", "amount": "150 gr." },
-          { "name": "Essig", "amount": "4 Esslöffel" },
-          { "name": "Rinderbrühe", "amount": "4 Esslöffel" },
-          { "name": "Salatöl", "amount": "8 Esslöffel" },
-          { "name": "Pfeffer", "amount": "etwas" }
-        ],
-        "directions": [
-          "Kartoffeln kochen, abgiessen, zerstampfen und Milch zugiessen und durchrühren. Mit Salz und Muskat würzen. Soviel Butter unterheben, bis der Pürree locker aber geschmeidig ist.",
-          "Rauchspeck mit Zwiebel anrösten mit Brühe ablöschen etwas köcheln lassen. Mit Essig und Öl verquirlen. Mit Salz und Pfeffer würzen. Salat damit mischen und vor dem Servieren unter das Pürree heben. Ich esse dazu gebratene Blutwurstscheiben."
-        ]
-      },
-      {
-        "title": "Matjestartar auf Gurkensalat",
-        "image": "german_food/k_49991.jpg",
-        "ingredients": [
-          { "name": "Salatgurke", "amount": "1 Stk." },
-          { "name": "Schalotte (für Dressing)", "amount": "1 Stk." },
-          { "name": "Chicken Chillisoße", "amount": "200 ml" },
-          { "name": "Senf mittelscharf", "amount": "1 TL" },
-          { "name": "Curry", "amount": "½ TL" },
-          { "name": "Essig", "amount": "50 ml" },
-          { "name": "Öl", "amount": "50 ml" },
-          { "name": "Dill gehackt", "amount": "10 gr." },
-          { "name": "Salz, Pfeffer (für Dressing)", "amount": "etwas" },
-          { "name": "Matjesfilet", "amount": "4 Stk." },
-          { "name": "Apfel", "amount": "1 Stk." },
-          { "name": "Schalotte (für Salat)", "amount": "1 Stk." },
-          { "name": "Olivenöl", "amount": "3 EL" },
-          { "name": "Pfeffer aus der Mühle", "amount": "1 Prise" }
-        ],
-        "directions": [
-          "Gurkensalat: Gurke schälen, halbieren und mit einem Löffel entkernen. Längs in Streifen, dann Würfel schneiden und in eine Schüssel geben. Salzen und ruhen lassen. Das Wasser, was sich dann bildet, abgießen. In der Zwischenzeit die Schalotten würfeln (man kann aber auch Frühlingszwiebel nehmen) und in einer Pfanne hell anschwitzen. Abkühlen lassen. Dill hacken und den Dill, Chillisoße, Curry, Essig, Öl, Senf, Schalotten in einer Schüssel kräftig vermischen und mit den Gurken vermengen. Mit Salz und Pfeffer abschmecken. Für 2 Std. im Kühlschrank ziehen lassen.",
-          "Matjestartar: Apfel schälen, entkernen und würfeln. Schalotte in feine Würfel schneiden. Den Matjes klein schneiden. Jetzt den Apfel, die Schalotte und den Matjes vermengen und mit einem Kochmesser alles fein hacken. In eine Schüssel geben und mit Olivenöl und Pfeffer abschmecken. In den Kühlschrank stellen.",
-          "Nach der Ruhezeit den Gurkensalat auf einem Teller anrichten. Den Matjes mit einem Eisportionierer, oder Löffel Kugeln / Nocken abstechen und auf dem Gurkensalat anrichten. Geht wunderbar als Vorspeise durch. Nun gutes Gelingen!"
-        ]              
-      },
-      {
-        "title": "Bulgur Salat",
-        "image": "german_food/k_23157.jpg",
-        "ingredients": [
-          { "name": "Wasser", "amount": "200 ml" },
-          { "name": "Bulgur", "amount": "100 gr." },
-          { "name": "Paprika edelsüß", "amount": "etwas" },
-          { "name": "Pfeffer", "amount": "etwas" },
-          { "name": "Oregano getrocknet", "amount": "etwas" },
-          { "name": "Gelbe Paprika", "amount": "1" },
-          { "name": "Tomaten", "amount": "2" },
-          { "name": "Gurke", "amount": "½" },
-          { "name": "Zwiebel gewürfelt", "amount": "½" },
-          { "name": "Öl", "amount": "4 EL" },
-          { "name": "Essig", "amount": "1 Schuss" },
-          { "name": "Salz", "amount": "etwas" }
-        ],
-        "directions": [
-          "Wasser, Paprikapulver, Oregano und Pfeffer aufkochen. Bulgur 10min auf kleiner Flamme darin quellen lassen.",
-          "Paprika, Tomate, Gurke und Zwiebel klein schneiden und in eine Schüssel geben. Öl und Essig zufügen, Bulgur unterheben und mit Salz abschmecken."
-        ]              
-      },
-      {
-        "title": "herzhafter Nudelauflauf",
-        "image": "german_food/k_57642.jpg",
-        "ingredients": [
-          { "name": "Nudeln, vom Vortag gekocht", "amount": "300 g" },
-          { "name": "Schlagsahne", "amount": "200 ml" },
-          { "name": "Goudakäse", "amount": "200 g" },
-          { "name": "Cervelatwurst", "amount": "150 g" },
-          { "name": "Lauch", "amount": "1 Stange" },
-          { "name": "Mais", "amount": "140 g" },
-          { "name": "Eier", "amount": "3" },
-          { "name": "Etwas Milch", "amount": "etwas" },
-          { "name": "Salz", "amount": "etwas" },
-          { "name": "Pfeffer", "amount": "etwas" },
-          { "name": "Muskat", "amount": "etwas" }
-        ],
-        "directions": [
-          "Eine Auflaufform einfetten. Die gekochten Nudeln mit der kleingeschnittenen Cervelatwurst, dem Mais sowie dem geputzten und in Ringe geschnittenen Lauch vermischen. In die Auflaufform geben. Nun die Eier mit der Sahne und einem guten Schuss Milch verrühren. Die Eier-Sahne-Mischung mit Salz, Pfeffer und Muskat abschmecken. Über die Nudeln gießen. Den geriebenen Käse darüber streuen und den Auflauf bei ca. 180 Grad 15 Minuten goldgelb überbacken."
-        ]
-      },
-      {
-        "title": "Beilage Feta Schoetchen",
-        "image": "german_food/k_81683.jpg",
-        "ingredients": [
-          { "name": "Mini-Paprika", "amount": "12 Stück" },
-          { "name": "Feta", "amount": "etwas" },
-          { "name": "Crème fraîche", "amount": "2 EL" },
-          { "name": "Frische Kräuter", "amount": "etwas" },
-          { "name": "Salbei, Rosmarin, Thymian, Majoran, Oregano, Olivenkraut", "amount": "etwas" },
-          { "name": "Schnittlauch, Petersilie", "amount": "etwas" },
-          { "name": "Olivenöl extra vergine", "amount": "etwas" },
-          { "name": "Bärlauchknospenöl von saartania", "amount": "etwas" },
-          { "name": "Salz und Pfeffer", "amount": "etwas" }
-        ],
-        "directions": [
-          "Paprika waschen, abtrocknen und längs halbieren, entkernen und die weißen Adern entfernen. Alle Kräuter hacken.",
-          "Feta, Crème fraîche und Kräuter verrühren, so dass eine glatte Masse entsteht, mit Salz und Pfeffer abschmecken. Die Käsecreme in einen Gefrierbeutel füllen, eine große Ecke abschneiden und die Creme in die Schötchen spritzen, das Ganze mit Oliven- oder Bärlauchknospenöl beträufeln.",
-          "Im vorgeheizten Ofen bei ca. 200°C etwa 20 Minuten überbacken, wer die Schötchen nicht knackig mag, sollte noch etwa 10 Minuten dranhängen, die Hitze dabei etwas reduzieren, da der Käse sonst verbrennt.",
-          "Tipp: Die Schötchen einzeln In Alufolie packen und auf den Grill legen. Brauchen dann ca. 30 Minuten."
-        ]
-      },
-      {
-        "title": "Gesundes Abendessen",
-        "image": "german_food/k_35167.jpg",
-        "ingredients": [
-          { "name": "Chicoree", "amount": "½ Stk." },
-          { "name": "Feldsalat", "amount": "Angabe fehlt" },
-          { "name": "Frischkäse Doppelrahmstufe", "amount": "150 g" },
-          { "name": "Orange", "amount": "1 Stk." },
-          { "name": "Orangenabrieb", "amount": "1 Teelöffel" },
-          { "name": "Orangensaft frisch gepresst", "amount": "½ Frucht" },
-          { "name": "Zucker (für Dipp)", "amount": "1 Teelöffel" },
-          { "name": "Chili aus der Mühle (zum Bestreuen)", "amount": "etwas" },
-          { "name": "Spargel Konserve", "amount": "1 Glas" },
-          { "name": "Ei hart gekocht", "amount": "2 Stk." },
-          { "name": "Radieschen frisch", "amount": "3 Stk." },
-          { "name": "Datteltomaten", "amount": "4 Stk." },
-          { "name": "Camembert Doppelrahmstufe", "amount": "1 Päckchen" },
-          { "name": "Edamer", "amount": "40 g" },
-          { "name": "Zucker", "amount": "etwas" },
-          { "name": "Salz grob", "amount": "etwas" },
-          { "name": "Pfeffer aus der Mühle schwarz", "amount": "etwas" },
-          { "name": "Chili aus der Mühle", "amount": "etwas" },
-          { "name": "Weinessig", "amount": "1 Esslöffel" },
-          { "name": "Rapsöl", "amount": "2 Esslöffel" },
-          { "name": "Senf grob mittelscharf", "amount": "1 Teelöffel" },
-          { "name": "Sonnenblumenkerne", "amount": "1 Esslöffel" }
-        ],
-        "directions": [
-          "Feldsalat putzen, waschen, schleudern.",
-          "Chicoree putzen, waschen, Blätter auflegen, einen Teil mit dem Dipp versehen. Einige mit Ei bestücken, andere mit Spargelspitzen.",
-          "Spargel halbieren, spitzen auf den Chicoree legen, Rest klein schneiden in eine Schüssel geben.",
-          "Radieschen waschen, hobeln zu dem Spargel geben. Tomaten waschen, halbieren.",
-          "1 Ei in Spalten trennen auf den Chicoree legen. 1 Ei am Ende oben auflegen.",
-          "Käse in feine Streifchen schneiden in die Schüssel geben. Kerne dazu geben.",
-          "Orange Schale zum Dipp, 0,5 ausdrücken den Saft an Dipp + Spargel verteilen. 0,5 Frucht Haut abziehen, Frucht in die Schüssel geben. Vinaigrette herstellen Salat anmachen.",
-          "Camembert in Spalten schneiden anlegen."
-        ]
-      },
-      {
-        "title": "Gebratene Pilze auf geroestetem Bauernbrot",
-        "image": "german_food/k_110844.jpg",
-        "ingredients": [
-          { "name": "Bauernbrot", "amount": "2 Scheiben" },
-          { "name": "Gemischte Pilze (z. B. Steinpilze, Pfifferlinge, Champignons)", "amount": "500 g" },
-          { "name": "Knoblauchzehen", "amount": "3" },
-          { "name": "Thymian", "amount": "1 Bund" },
-          { "name": "Zitrone", "amount": "1" },
-          { "name": "Butter", "amount": "etwas" },
-          { "name": "Pfeffer aus der Mühle schwarz", "amount": "etwas" },
-          { "name": "Meersalz aus der Mühle", "amount": "etwas" },
-          { "name": "Olivenöl", "amount": "etwas" },
-          { "name": "Wasser", "amount": "etwas" }
-        ],
-        "directions": [
-          "Pilze putzen und grob klein schneiden. 2 Zehen vom Knoblauch in feine Würfel schneiden.",
-          "Olivenöl in eine Pfanne geben und heiß werden lassen. Die Bauernbrotscheiben anrösten und mit einer Knoblauchzehe einreiben. Aus der Pfanne nehmen und bei Seite stellen.",
-          "Pfanne auswischen und Olivenöl erhitzen. Die Pilze hinein geben und regelmäßig durchmischen. Den gehackten Knoblauch, Thymianspitzen und wenige Tropfen Zitronensaft beigeben. Mit Salz und Pfeffer würzen. 2 Messerspitzen Butter über den Pilzen zerlassen und einen Schluck Wasser zugeben. Gut durchmischen bis eine cremige Soße entsteht.",
-          "Kurz vor dem Servieren das Brot nochmal kurz in die Pfanne einlegen und anschließend das Brot auf einem Teller anrichten und mit den Pilzen 'belegen'."
-        ]
-      }
-    ]
-  }
-  
+  "recipes": [
+    {
+      "title": "Würziges Mangoldgemüse zu NT Putenbraten",
+      "image": "german_food/k_107204.jpg",
+      "ingredients": [
+        { "name": "Mangold frisch", "amount": "1 kg" },
+        { "name": "Frühlingszwiebel frisch, geschnitten", "amount": "5 Stück" },
+        { "name": "Butter", "amount": "50 Gramm" },
+        { "name": "Schalotte frisch gewürfelt", "amount": "1 Stück" },
+        { "name": "Knoblauchzehen fein gehackt", "amount": "4 Stück" },
+        { "name": "Peperoncini fein gehackt", "amount": "1 Stück" },
+        { "name": "Gemüsebrühe selbst gemacht", "amount": "4 EL" },
+        { "name": "Currypulver", "amount": "1 Prise" },
+        { "name": "Meersalz aus der Mühle", "amount": "1 Prise" },
+        { "name": "Saure Sahne", "amount": "1 EL" },
+        { "name": "Olivenöl", "amount": "1 EL" },
+        { "name": "Pfeffer aus der Mühle schwarz", "amount": "1 Prise" },
+        { "name": "Putenbrust", "amount": "800 Gramm" },
+        { "name": "Meersalz aus der Mühle", "amount": "1 Prise" },
+        { "name": "Pfeffer aus der Mühle schwarz", "amount": "1 Prise" },
+        { "name": "Schwarzes Chiliöl selbstgemacht", "amount": "1 TL" },
+        { "name": "Knoblauchöl Selbst gemacht", "amount": "1 TL" },
+        { "name": "Butterschmalz", "amount": "2 EL" }
+      ],
+      "directions": [
+        "Den Mangold küchenfertig zubereiten. Die Stiele in kleine Stücke schneiden und die Blätter in Streifen.",
+        "Die Schalotte und Frühlingszwiebel in einem auf mittlerer Hitze erwärmten Topf andünsten lassen.",
+        "Die Stiele vom Mangold reingeben und einige min dünsten lassen. Die müssen erst rein weil sie länger wie die Blätter brauchen.",
+        "Nun die Mangoldblätter, Knobi und Peperoni dazu und auch einige min garen lassen. Dann die Brühe angiessen und alles zusammen noch etwas ziehen lassen. Dabei ab und an umrühren.",
+        "Nun mit den Gewürzen nach Geschmack abschmecken und die Saure Sahne unterrühren.",
+        "Das Fleisch etwa 6 mal einschneiden. Vorsicht, nicht ganz durchschneiden, damit es nicht in Scheiben auseinanderfällt. Den E-Ofen auf 80 Grad vorheizen.",
+        "Nun das Fleisch rundum in Butterschmalz kurz anbraten, dabei mit Pfeffer und Salz würzen.",
+        "Jetzt von jedem Würz-Öl etwas in die Einschnitte tropfen lassen. Den Braten auf den Rost legen (Ofenmitte) und garziehen lassen. Den Thermometer einstechen. Wenn der Thermometer piepst (ich mag Pute mit knapp 70 Grad Kerntemperatur) den Braten rausnehmen.",
+        "Wir hatten dazu Kartöffelchen aus unserem Garten."
+      ]
+    },
+    {
+      "title": "Schweinerollbraten in Biersosse",
+      "image": "german_food/k_41465.jpg",
+      "ingredients": [
+        { "name": "Gefüllter Schweinerollbraten", "amount": "1200 Gramm" },
+        { "name": "Öl", "amount": "etwas" },
+        { "name": "Zwiebeln", "amount": "6" },
+        { "name": "Kümmel", "amount": "1 Esslöffel" },
+        { "name": "Majoran", "amount": "1 Esslöffel" },
+        { "name": "Lorbeerblatt", "amount": "1" },
+        { "name": "Tomatenmark", "amount": "1 Döschen" },
+        { "name": "Pilsbier", "amount": "1 Flasche" },
+        { "name": "Salz, Pfeffer", "amount": "etwas" },
+        { "name": "Rama Cremefine 7 %", "amount": "1 Flasche" },
+        { "name": "Soßenbinder dunkel", "amount": "etwas" }
+      ],
+      "directions": [
+        "Im Bräter Öl heiß werden lassen und den vom Metzger vorbereiteten Rollbraten von allen Seiten gut anbraten. Dann herausnehmen.",
+        "Die geschälten und in grobe Stücke geschnittenen Zwiebeln ins Bratfett geben. Kümmel, Majoran, Lorbeerblatt und Tomatenmark dazugeben und alles gut anschmoren lassen. Mit Bier ablöschen, mit Salz und Pfeffer abschmecken und den Rollbraten wieder daraufgeben.",
+        "Den Rollbraten im offenen Bräter im Backofen bei 150° Umluft ca. 1- 1,5 Stunde schmoren lassen. Bei Bedarf noch etwas Wasser nachgießen.",
+        "Den Rollbraten rausnehmen und eine Flasche Cremefine in die Soße geben. Aufkochen lassen und nochmals abschmecken. Wer will kann die Soße mit Soßenbinder oder Speisestärke binden.",
+        "Den Braten in Scheiben schneiden. Dazu gabs Salzkartoffeln und Erbsen."
+      ]
+    },
+    {
+      "title": "Putenleber LUDMILLA",
+      "image": "german_food/k_112648.jpg",
+      "ingredients": [
+        { "name": "Putenleber", "amount": "300 gr." },
+        { "name": "Champignons frisch", "amount": "6 Stück" },
+        { "name": "Äpfel frisch", "amount": "2 Stück" },
+        { "name": "Zuckerschoten frisch", "amount": "125 gr." },
+        { "name": "Karotte frisch", "amount": "1 Stück" },
+        { "name": "Oliven schwarz entsteint", "amount": "10 Stück" },
+        { "name": "Oliven grün gefüllt mit Paprika", "amount": "10 Stück" },
+        { "name": "Lauchzwiebeln frisch Zweig", "amount": "1 Stück" },
+        { "name": "Staudensellerie Strunk", "amount": "1 Stück" },
+        { "name": "Kartoffeln", "amount": "4 Stück" },
+        { "name": "Butter", "amount": "125 gr." },
+        { "name": "Salz und Pfeffer aus der Mühle", "amount": "etwas" },
+        { "name": "Zucker", "amount": "etwas" },
+        { "name": "Chillischote grün mild", "amount": "etwas" },
+        { "name": "TK - 8 Kräuter", "amount": "1 EL" },
+        { "name": "Orange frisch", "amount": "1 Stück" },
+        { "name": "Kiwi frisch", "amount": "1 Stück" },
+        { "name": "Crème fraîche", "amount": "2 EL" },
+        { "name": "Thymian oder Petersilie als DEKO", "amount": "etwas" },
+        { "name": "Chillischote grün / rot als DEKO", "amount": "etwas" }
+      ],
+      "directions": [
+        "Die Karotte/Möhre schälen und in kleine, flache Stücke schneiden und zusammen mit den gewaschenen Zuckerschoten in einen Topf mit Salzwasser legen. Etwas Zucker hinzu und langsam köcheln lassen - die Karotten und die Zuckerschoten sollten noch Biss haben - abschütten und ein Stück Butter dabei - schütteln (mit Deckel !)",
+        "Die Putenleber waschen und evtl. schneiden..... die Champignons und die Äpfel in dünne Scheiben schneiden, den Staudensellerie ebenfalls in dünne Scheiben schneiden - die Oliven halbieren... in einer Pfanne oder einem WOK etwas Butter erhitzen und die Gemüse-Obst-Masse anbraten - nach ca. 5 Minuten die Leber und noch ein Stück Butter hinzugeben und weiterbraten...(umrühren), kurz vor Garende etwas Pfeffer und Salz aus der Mühle und etwas 8-Kräuter(TK) hinzugeben - zum Schluß 2 EL Crème fraîche dabei und umrühren....",
+        "Die Kartoffeln schälen und in ca. 1 cm dünne Scheiben schneiden und in Salzwasser aufkochen. (Geht schneller)",
+        "Als Deko: Orangenscheiben - Kiwischeiben - Chillischote grün / rot - Thymian oder Petersilie"
+      ]
+    },
+    {
+      "title": "Hauptgerichte Wirsing in Kokosmilch",
+      "image": "german_food/k_45291.jpg",
+      "ingredients": [
+        { "name": "Wirsingkopf", "amount": "1" },
+        { "name": "Hackfleisch gemischt", "amount": "300 g" },
+        { "name": "Speckwürfel", "amount": "125 g" },
+        { "name": "Zwiebel", "amount": "1" },
+        { "name": "Kokosmilch", "amount": "1 Dose" },
+        { "name": "Brühe instant", "amount": "1 TL" },
+        { "name": "Kümmel", "amount": "etwas" },
+        { "name": "Salz", "amount": "etwas" },
+        { "name": "Zucker", "amount": "etwas" },
+        { "name": "Vegeta Gewürz", "amount": "etwas" }
+      ],
+      "directions": [
+        "wirsing putzen vierteln, die dicken rippen entfernen und streifen schneiden. zwiebel pellen und würfeln.",
+        "speck in etwas fett auslassen, hackfleisch und die zwiebel zugeben, krümelig braten. wirsing zugeben, mit anschmoren bis er zusammengefallen ist. brühe, kümmel und salz zugeben und die kokosmilch angießen. aufkochen lassen und bei kleiner hitze ca. 15 min. garen. anschließend mit vegeta und zucker abschmecken.",
+        "dazu schmecken salzkartoffeln. meine familie hat dieses gericht geliebt vegeta gibt es in größeren geschäften. ich bekomme vegeta auch in türkischen läden."
+      ]
+    },
+    {
+      "title": "Filet-Gemüse-Auflauf",
+      "image": "german_food/k_16797.jpg",
+      "ingredients": [
+        { "name": "Schweinefilet", "amount": "1 Stück" },
+        { "name": "Porree frisch", "amount": "1 Stück" },
+        { "name": "Möhren", "amount": "4 Stück" },
+        { "name": "Kohlrabi", "amount": "1 Stück" },
+        { "name": "Crème fraîche mit Kräutern", "amount": "1 Becher" },
+        { "name": "Gemüsebrühe", "amount": "½ Liter" },
+        { "name": "Camembert", "amount": "½ Stück" },
+        { "name": "Pfeffer, Salz", "amount": "etwas" },
+        { "name": "Soßenbinder", "amount": "etwas" },
+        { "name": "Öl zum braten", "amount": "etwas" }
+      ],
+      "directions": [
+        "Das küchenfertige Filet in Medallions schneiden und von jeder Seite in Öl kurz anbraten. Peffern und Salzen.",
+        "Das Gemüse in Stücke schneiden und in der Gemüsebrühe bissfest garen. Mit einer Schaumkelle herausnehmen.",
+        "Alles in eine gefettete Auflaufform geben. Ich habe alles ein bisschen separat hineingefüllt. Die Pfanne mit Gemüsebrühe und Kräuter-Crème-fraîche und dem Camembert ablöschen. Eventuell nachwürzen und einen Eßlöffel Soßenbinder oder Mehl nicht zu dick andicken und über das Fleisch und Gemüse geben.",
+        "Im vorgeheizten Backofen bei 160 Grad Heißluft ca. 30-40 Minuten überbacken.",
+        "Bei uns gab es selbstgemachte Spätzle dazu. Allerdings muss ich als Rheinländerin an den Spätzle noch ziemlich üben. Mein Mann fand sie gar nicht mal so schlecht."
+      ]
+    },
+    {
+      "title": "Überbackene Knacker",
+      "image": "german_food/k_22791.jpg",
+      "ingredients": [
+        { "name": "Knackwürstchen / Brühwürstchen", "amount": "8" },
+        { "name": "Champignons", "amount": "250 g" },
+        { "name": "Eigelb", "amount": "1" },
+        { "name": "Currypulver", "amount": "etwas" },
+        { "name": "Salz, Pfeffer", "amount": "etwas" },
+        { "name": "Röstzwiebeln", "amount": "1 EL" },
+        { "name": "Geriebener Käse", "amount": "200 g" },
+        { "name": "Sahne", "amount": "200 g" },
+        { "name": "Tomaten", "amount": "4" }
+      ],
+      "directions": [
+        "Champignons bürsten und in Würfel schneiden.",
+        "Sahne steif schlagen. Eigelb, Röstzwiebeln, 50 g Käse und Champignonwürfel zugeben und unterheben - mit Salz, Pfeffer und Currypulver abschmecken.",
+        "Würstchen in eine Auflaufform legen und die Champignonsahne gleichmäßig darüber verstreichen.",
+        "Tomaten waschen und in Scheiben schneiden. Die Tomatenscheiben gleichmäßig auf die Champignonsahne legen, den restlichen Käse darüberstreuen.",
+        "Im vorgeheizten Backofen bei 200°C etwa 15 Minuten überbacken.",
+        "Kartoffelpüree und ein 'frischer' Salat."
+      ]
+    },
+    {
+      "title": "Spaghetti mit Lammrückenfilet und Paprikaschaum",
+      "image": "german_food/k_36035.jpg",
+      "ingredients": [
+        { "name": "Spaghetti", "amount": "280 gr." },
+        { "name": "Zucchiniwürfel grün", "amount": "80 gr." },
+        { "name": "Paprikawürfel rot, geschält", "amount": "80 gr." },
+        { "name": "Paprikawürfel gelb, geschält", "amount": "80 gr." },
+        { "name": "Oregano getrocknet", "amount": "½ TL" },
+        { "name": "Meersalz", "amount": "etwas" },
+        { "name": "Paprikasauce siehe Paprikahenderl", "amount": "½ Rezept" },
+        { "name": "Lamm Lachse", "amount": "300 gr." },
+        { "name": "Olivenöl, Salz, Pfeffer, Knoblauchzehe", "amount": "etwas" }
+      ],
+      "directions": [
+        "Spaghetti nach Packungshinweis bissfest kochen. Gut abtropfen. Paprikasauce erwärmen und aufschäumen. Als Spiegel auf Teller verteilen. Nudeln darauf setzen. Gemüsewürfel in Olivenöl dünsten. Mit Oregano und Meersalz würzen. Knoblauchzehe andrücken und in Olivenöl anbraten. Gewürzten Lammlachse darin rosa braten.",
+        "Etwas ruhen lassen und in dünne Scheiben schneiden. Scheiben auf die Nudeln anrichten und mit den Gemüsewürfeln bestreuen."
+      ]
+    },
+    {
+      "title": "Zuccini mal anderst als Soße oder Beilage",
+      "image": "german_food/k_105923.jpg",
+      "ingredients": [
+        { "name": "Zuccini", "amount": "2" },
+        { "name": "Tomaten oder", "amount": "3" },
+        { "name": "Geschälte Tomaten", "amount": "1 Dose" },
+        { "name": "Sahne", "amount": "1 Becher" },
+        { "name": "Knoblauch", "amount": "etwas" },
+        { "name": "Geriebener Käse", "amount": "etwas" },
+        { "name": "Brühe", "amount": "50 ml" }
+      ],
+      "directions": [
+        "Zuccini schälen und in kleine Viertel Scheiben schneiden. Wenn man frische Tomaten nimmt, die obere Seite mit einem Kreuz einschneiden und im heißen Wasser etwas garen bis sich die Haut am eingeschnittenen ablöst. Dann die Tomaten klein schneiden. Da dies ein bisschen mehr Aufwand ist, nehme ich einfach entweder gehackte Tomatenstücke aus der Dose oder eben geschälte Tomaten aus der Dose. Dann die Zuccini in einen Topf geben und einen ganz kleinen Schuss Zitronensaft hinzufügen. Den Topf auf mittlerer Hitze anmachen und die Tomatenstücke hinzugeben. Den Knoblauch durch eine Presse mit in den Topf geben. Knoblauch variiert je nach Geschmack, der eine nimmt nur 1 Zehe, der andere 3. Dann mit etwas Brühe ablöschen, so ca. 50 ml. Dann die Sahne hinzufügen, so dass die Zuccini nicht ganz bedeckt sind, aber dass es noch eine etwas breiige Konsistenz behält. Nun mit Salz, Pfeffer, Paprika abschmecken. Das Ganze ca. 15 min garen lassen. Am Schluss den Topf vom Herd nehmen und den geriebenen Käse dazugeben. Ich mache immer Spaghetti dazu oder nehme es als Beilage."
+      ]
+    },
+    {
+      "title": "Schupfnudelpfanne mit Bohnen",
+      "image": "german_food/k_16743.jpg",
+      "ingredients": [
+        { "name": "Schupfnudeln", "amount": "1 kg" },
+        { "name": "Grüne Bohnen, bissfest garen", "amount": "500 gr." },
+        { "name": "Zwiebeln, abziehen, halbieren und kleinschneiden", "amount": "2" },
+        { "name": "Knofibutter aus meinem KB", "amount": "2 EL" },
+        { "name": "Salz, Pfeffer", "amount": "etwas" },
+        { "name": "Pflanzencreme", "amount": "etwas" }
+      ],
+      "directions": [
+        "In einer hohen Pfanne im erhitzten Fett die Nudeln mit den Zwiebeln schön goldgelb bis bräunlich anbraten und mit Salz und Pfeffer würzen.",
+        "Die Bohnen und Knofibutter unterheben und nochmal ca. 10 Min. braten - ab und zu umrühren.",
+        "Passt super z.B. zu panierten Schnitzeln."
+      ]
+    },
+    {
+      "title": "Kartoffel-Frischkäse-Gratin",
+      "image": "german_food/k_47728.jpg",
+      "ingredients": [
+        { "name": "Kartoffeln", "amount": "12 mittelgroße" },
+        { "name": "Milch", "amount": "300 ml" },
+        { "name": "Frischkäse", "amount": "10 EL" },
+        { "name": "Käse gerieben", "amount": "4 EL" },
+        { "name": "Gemüsebrühe", "amount": "2 EL" },
+        { "name": "Wasser", "amount": "300 ml" },
+        { "name": "Petersilie", "amount": "6 EL" },
+        { "name": "Thymian getrocknet", "amount": "4 TL" },
+        { "name": "Stärke", "amount": "6 TL" },
+        { "name": "Käse gerieben", "amount": "100 g" },
+        { "name": "Eisbergsalat", "amount": "1" },
+        { "name": "Schnittlauch", "amount": "8 EL" },
+        { "name": "Petersilie", "amount": "6 EL" },
+        { "name": "Pflanzenöl", "amount": "12 EL" },
+        { "name": "Kräuteressig", "amount": "6 EL" },
+        { "name": "Zucker", "amount": "1 EL" },
+        { "name": "Senf", "amount": "2 Msp." },
+        { "name": "Sahne 10% Fett", "amount": "8 EL" },
+        { "name": "Salz, Pfeffer", "amount": "etwas" }
+      ],
+      "directions": [
+        "Die Kartoffeln vorkochen, abkühlen lassen. Dann schälen, in dünne Scheiben schneiden und in eine Auflaufform schichten.",
+        "Für die Soße: Wasser, Milch, Gemüsebrühe, Frischkäse, Thymian und 3 EL Petersilie in einen Topf geben und aufkochen. Einige EL von der Soße in eine kleine Schüssel geben und mit der Stärke verrühren, zum Andicken zurück in den Topf geben. Nun noch 2 EL geriebenen Käse zugeben und gut verrühren. Mit Salz und Pfeffer abschmecken.",
+        "Die Soße über die Kartoffeln geben, 50 g geriebenen Käse darüber verteilen und bei 180° Umluft ca. 25-30 min goldbraun backen.",
+        "Den Salat in feine Streifen schneiden, waschen, schleudern. Für das Dressing: Schnittlauch, 3 EL Petersilie, Öl, Essig, Senf, Zucker und Sahne verrühren und mit Salz und Pfeffer abschmecken.",
+        "Gratin zusammen mit dem Salat servieren. Fertig!"
+      ]
+    },
+    {
+      "title": "Champignons in einer leichten Rahmsoße",
+      "image": "german_food/k_68763.jpg",
+      "ingredients": [
+        { "name": "Champignons frisch", "amount": "600 g" },
+        { "name": "Butter", "amount": "60 g" },
+        { "name": "Bratensaft", "amount": "1 Würfel" },
+        { "name": "Cremefine '3 Pfeffer mit Zitrone'", "amount": "2" }
+      ],
+      "directions": [
+        "Die Pilze putzen, dann vierteln - den halben Bratensaft-Würfel fein zerhacken.",
+        "Die Butter in einer Pfanne erhitzen und die Pilze darin mild anbraten bis sie zu bräunen beginnen.",
+        "Nun das Fläschchen Rama Cremefine angießen, Bratensaft dazugeben und alles für eine Minute durchkochen lassen. Noch einmal abschmecken und servieren.",
+        "Dazu paßt ein edler Reis mit Zwiebeln und Mandeln. Wir hatten auch noch ein (selbst-) mariniertes Steak dazu - mein Toni meint immer: 'Wer schafft, braucht Kraft!'"
+      ]
+    },
+    {
+      "title": "Bulgur Salat",
+      "image": "german_food/k_23157.jpg",
+      "ingredients": [
+        { "name": "Wasser", "amount": "200 ml" },
+        { "name": "Bulgur", "amount": "100 gr." },
+        { "name": "Paprika edelsüß", "amount": "etwas" },
+        { "name": "Pfeffer", "amount": "etwas" },
+        { "name": "Oregano getrocknet", "amount": "etwas" },
+        { "name": "Gelbe Paprika", "amount": "1" },
+        { "name": "Tomaten", "amount": "2" },
+        { "name": "Gurke", "amount": "½" },
+        { "name": "Zwiebel gewürfelt", "amount": "½" },
+        { "name": "Öl", "amount": "4 EL" },
+        { "name": "Essig", "amount": "1 Schuss" },
+        { "name": "Salz", "amount": "etwas" }
+      ],
+      "directions": [
+        "Wasser, Paprikapulver, Oregano und Pfeffer aufkochen. Bulgur 10 min auf kleiner Flamme darin quellen lassen.",
+        "Paprika, Tomate, Gurke und Zwiebel klein schneiden und in eine Schüssel geben. Öl und Essig zufügen, Bulgur unterheben und mit Salz abschmecken."
+      ]
+    },
+    {
+      "title": "Basilikum-Knödel",
+      "image": "german_food/k_45101.jpg",
+      "ingredients": [
+        { "name": "Basilikum", "amount": "2 Bund" },
+        { "name": "Knödel halb und halb - Fertigprodukt", "amount": "1 Paket" },
+        { "name": "Toast", "amount": "4 Scheiben" },
+        { "name": "Knoblauchzehe", "amount": "2" },
+        { "name": "Olivenöl", "amount": "4 TL" }
+      ],
+      "directions": [
+        "Basilikum waschen, trockenschütteln, die Blätter abzupfen und fein hacken. 250 ml kaltes Wasser in eine Schüssel geben und den Basilikum hinzufügen. Die Knödelmischung einrühren und ca. 10 Minuten quellen lassen.",
+        "Inzwischen das Toastbrot in kleine Würfel schneiden. Knoblauch schälen und in eine Pfanne mit dem Öl pressen. Die Brotwürfel im Knoblauchöl goldgelb rösten.",
+        "Mit angefeuchteten Händen ca. 8 Knödel formen, dabei jeweils einige Brotwürfel in die Mitte geben. In reichlich Salzwasser die Knödel bei kleiner Hitze ca. 12 - 15 Minuten ziehen lassen."
+      ]
+    },
+    {
+      "title": "Kasselerpfanne",
+      "image": "german_food/k_24889.jpg",
+      "ingredients": [
+        { "name": "Kasselerlachs", "amount": "500 gr." },
+        { "name": "Kartoffeln", "amount": "500 gr." },
+        { "name": "Möhren", "amount": "2" },
+        { "name": "Lauchzwiebeln frisch", "amount": "1 Bund" },
+        { "name": "Hühnerfond", "amount": "250 ml" },
+        { "name": "Sahne", "amount": "200 ml" },
+        { "name": "Wasser", "amount": "50 ml" },
+        { "name": "Schnittlauch frisch", "amount": "etwas" },
+        { "name": "Petersilie gehackt", "amount": "etwas" },
+        { "name": "Salz", "amount": "etwas" },
+        { "name": "Pfeffer", "amount": "etwas" },
+        { "name": "Paprika edelsüß", "amount": "etwas" }
+      ],
+      "directions": [
+        "Kartoffeln schälen und garen. Kasselerlachs in Würfel, Lauchzwiebeln und Möhren in Stücke schneiden. Kartoffeln abgießen, abkühlen lassen und ebenfalls würfeln.",
+        "Kasseler anbraten und Lauchzwiebeln hinzufügen. Mit Pfeffer, Salz und Paprikapulver abschmecken. Die Möhren hinzufügen. Hühnerfond, Sahne und Wasser dazu gießen und 10 min köcheln lassen. Jetzt die Kartoffeln, den Schnittlauch und die Petersilie mit in den Topf geben und auf kleiner Flamme weiter köcheln.",
+        "Jetzt mit Senf würzen (ca. 1 EL) und ggf. nochmals abschmecken."
+      ]
+    },
+    {
+      "title": "Matjessalat mit Rettich, Äpfeln und Sherry",
+      "image": "german_food/k_99462.jpg",
+      "ingredients": [
+        { "name": "Matjesfilets", "amount": "8 ca. 450 gr" },
+        { "name": "Salatgurke", "amount": "½" },
+        { "name": "Radieschen frisch", "amount": "1 Bund" },
+        { "name": "Äpfel säuerlich", "amount": "1" },
+        { "name": "Zwiebel rot", "amount": "1" },
+        { "name": "Ingwer gehackt", "amount": "1 Stück" },
+        { "name": "Apfelessig", "amount": "2 Esslöffel" },
+        { "name": "Salz", "amount": "etwas" },
+        { "name": "Zucker braun", "amount": "2 Teelöffel" },
+        { "name": "Pfeffer aus der Mühle schwarz", "amount": "etwas" },
+        { "name": "Sesamöl", "amount": "1 Esslöffel" },
+        { "name": "Sonnenblumenöl", "amount": "3 Esslöffel" },
+        { "name": "Sherry trocken", "amount": "1 Esslöffel" }
+      ],
+      "directions": [
+        "Die Matjesfilets etwa 30 Min. wässern, Gurke schälen, längs halbieren oder vierteln und in Scheiben schneiden. Radieschen putzen und in Scheiben hobeln. Den Apfel vierteln, entkernen und in schmale Scheiben schneiden. Zwiebel schälen und in dünne Ringe schneiden.",
+        "Matjesfilets trockentupfen, in 3 cm lange Streifen schneiden und alles vorsichtig mischen.",
+        "Soße: Ingwer mit Essig, Salz, Zucker und Pfeffer verrühren. Öl darunterschlagen und den Sherry unterrühren. Über den Salat geben und ca. 20 Min. ziehen lassen."
+      ]
+    }
+  ]
+}
