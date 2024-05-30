@@ -1,6 +1,6 @@
 var recipes = []; 
 var taskCount = 0; 
-localStorage.clear();
+//localStorage.clear();
 
 document.addEventListener('DOMContentLoaded', function() {
     var isSecondAttempt = localStorage.getItem("secondAttempt") === "true";
