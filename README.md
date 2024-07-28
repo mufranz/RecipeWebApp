@@ -42,4 +42,4 @@ The application uses the following technologies:
 - **Hosting**: Vercel ('https://recipe-similarity.vercel.app/')
 
 ## Repository
-The code for the application can be found at [https://github.com/yourusername/yourrepository](https://github.com/yourusername/yourrepository).
+The code for the application can be found at [https://github.com/mufranz/RecipeWebApp](https://github.com/mufranz/RecipeWebApp).
