@@ -15,9 +15,6 @@ The application is hosted on a public vercel server. The server-side logic is im
 To install and run the application locally, follow these steps:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/yourrepository.git
-   cd yourrepository
 
 2. Install dependencies:
 Make sure you have Node.js installed. Then run:
