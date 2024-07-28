@@ -14,31 +14,28 @@ h1, h2, h3 {
 /* Start Screen Section */
 #start-screen {
     background-color: white;
-    width: 80%; /* Default width */
+    width: 80%; 
     margin: auto;
     padding: 20px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-/* Adjustments for larger screens */
 @media (min-width: 1024px) {
     #start-screen {
-        width: 60%; /* Smaller width for larger screens */
+        width: 60%; 
     }
 }
 
-/* Adjustments for medium screens (e.g., tablets) */
 @media (max-width: 768px) {
     #start-screen {
-        width: 90%; /* Wider for medium screens */
+        width: 90%; 
     }
 }
 
-/* Adjustments for small screens (e.g., mobile phones) */
 @media (max-width: 480px) {
     #start-screen {
-        width: 100%; /* Full width for small screens */
-        box-shadow: none; /* Optional: Remove shadow on small screens */
+        width: 100%; 
+        box-shadow: none;
     }
 }
 
@@ -50,7 +47,7 @@ h1, h2, h3 {
     background-color: #e9ecef;
     border-radius: 5px;
     box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1);
-    text-align: left; /* Add this line to align text to the left */
+    text-align: left; 
 }
 
 
@@ -93,7 +90,7 @@ button:hover {
     background-color: #0056b3;
 }
 
-/* Responsive Design */
+
 @media (max-width: 768px) {
     body {
         padding: 10px;
@@ -108,12 +105,11 @@ button:hover {
 
 /* Recipes */
 .recipe-container {
-    width: calc((100% - 40px) / 3); /* Adjust width for 3 items per row */
-    /* Subtracting 40px to account for the 20px gap on both sides */
+    width: calc((100% - 40px) / 3); 
     margin-bottom: 30px;
     border: 1px solid #ddd;
     padding: 15px;
-    box-sizing: border-box; /* Include padding and border in the width calculation */
+    box-sizing: border-box;
 }
 
 .recipe-container h3 {
@@ -125,50 +121,49 @@ button:hover {
     display: flex; 
     flex-wrap: wrap; 
     justify-content: center; 
-    gap: 20px; /* Space between items */
+    gap: 20px; 
     padding: 20px;
 }
 
 .recipe-container table {
     width: 100%;
     border-collapse: collapse;
-    margin-top: 10px;  /* Adjust based on your design */
+    margin-top: 10px;
 }
 
 .recipe-container th, .recipe-container td {
     text-align: left;
-    padding: 5px;  /* Adjust padding for spacing */
-    border-bottom: 1px solid #ddd;  /* Optional border for rows */
+    padding: 5px; 
+    border-bottom: 1px solid #ddd;  
 }
 
-/* Optional: you can style the first column to be wider or narrower */
+
 .recipe-container td:first-child {
-    width: 70%;  /* Adjust based on your content */
+    width: 70%;  
 }
 
 
-/* Style for images in the recipe container */
 .recipe-container img {
-    width: 100%; /* Make the image width responsive */
-    max-width: 600px; /* Maximum width of the image */
-    max-height: 400px; /* Maximum height of the image */
-    height: auto; /* Maintain aspect ratio */
+    width: 100%;
+    max-width: 600px; 
+    max-height: 400px; 
+    height: auto; 
     display: block;
     margin: 0 auto 10px;
     object-fit: cover;
 }
 
-/* Adjust the recipe container size on smaller screens */
+
 @media (max-width: 768px) {
     .recipe-container {
-        width: calc((100% - 40px) / 2); /* 2 items per row on smaller screens */
+        width: calc((100% - 40px) / 2);
     }
 }
 
-/* Adjust for even smaller screens, like mobile phones */
+
 @media (max-width: 480px) {
     .recipe-container {
-        width: 100%; /* Full width for very small screens */
+        width: 100%; 
     }
 }
 
@@ -198,12 +193,11 @@ button:hover {
 
 /*start screen*/
 .screen {
-    display: none; /* Hide screens initially */
+    display: none; 
     text-align: center;
     padding: 20px;
 }
 
-/* When you are ready to show a screen, you can add a class to make it display */
 .screen.active {
     display: block;
 }

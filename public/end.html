@@ -41,7 +41,7 @@
         <button id="finish-study">Studie beenden</button>
     </div>
     <script>
-        // Check the number of completions and hide "Start Survey Again" if necessary
+        // Check the number of completions of odd-one-out task
         var completions = localStorage.getItem("surveyCompletions") || 0;
         if (completions >= 2) {
             document.getElementById('restart-survey').style.display = 'none';
@@ -51,11 +51,10 @@
         }
         
         document.getElementById('restart-survey').addEventListener('click', function() {
-            window.location.href = 'index.html'; // Replace with the path to your survey start page
+            window.location.href = 'index.html'; 
         });
 
         document.getElementById('finish-study').addEventListener('click', function() {
-            // Redirect to the survey page (update the URL to your survey page)
             window.location.href = 'survey.html';
         });
     </script>

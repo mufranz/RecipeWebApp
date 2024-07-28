@@ -1,26 +1,24 @@
 var recipes = []; 
 var taskCount = 0; 
-//localStorage.clear();
 
 document.addEventListener('DOMContentLoaded', function() {
     var isSecondAttempt = localStorage.getItem("secondAttempt") === "true";
     var startScreen = document.getElementById("start-screen");
     var mainContent = document.getElementById("main-content");
 
+    //check for second attempt and adjust start screen 
     if (isSecondAttempt) {
-        // Hide start screen and show main content directly
         if (startScreen) startScreen.classList.remove("active");
         mainContent.classList.add("active");
     } else {
-        // Show start screen
         if (startScreen) startScreen.classList.add("active");
     }
 
     fetch('recipes.json')
         .then(response => response.json())
         .then(data => {
-            recipes = shuffleArray(data.recipes); // Shuffle the recipes
-            displayImages(); // Call to display images and recipes
+            recipes = shuffleArray(data.recipes); 
+            displayImages(); 
         })
         .catch(error => {
             console.error('Error:', error);
@@ -29,24 +27,22 @@ document.addEventListener('DOMContentLoaded', function() {
     var startButton = document.getElementById("start-button");
     startButton.addEventListener("click", function() {
         var completions = localStorage.getItem("surveyCompletions") || 0;
-        // Check if the survey has been completed twice already
         if (completions >= 2) {
             alert("You have already completed the survey twice.");
-            return; // Prevent the survey from starting
+            return;
         }
         
         taskCount = 0;
 
-         // Generate a unique identifier
+         // Generate a unique identifier for participant
         var uniqueId = 'id_' + Math.random().toString(36).substr(2, 9);
         localStorage.setItem("surveyUserId", uniqueId);
 
-        // Hide start screen and show the main content
+        // Display Odd-One-Out task
         document.getElementById("start-screen").classList.remove("active");
         document.getElementById("main-content").classList.add("active");
 
-        // Call any function to start the survey (if necessary)
-        window.scrollTo(0, 0); // Scroll to top when starting the survey.
+        window.scrollTo(0, 0);
         startSurvey();
     });
 });
@@ -55,7 +51,7 @@ function startSurvey() {
     displayImages();
 }
 
-// Shuffle array utility function
+// Shuffle array
 function shuffleArray(array) {
     for (let i = array.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
@@ -64,24 +60,24 @@ function shuffleArray(array) {
     return array;
 }
 
-// Function to handle saving the chosen image and reloading
+// handle saving the chosen recipe and reloading the displayed recipes
 function saveChoiceAndReload() {
     var imageContainer = document.getElementById("image-container");
     var selectedRecipe = imageContainer.querySelector(".recipe-container.selected");
 
     if (selectedRecipe) {
         var selectedImage = selectedRecipe.querySelector("img");
-        var uniqueId = localStorage.getItem("surveyUserId"); // Retrieve the identifier
+        var uniqueId = localStorage.getItem("surveyUserId"); 
 
         var choiceData = {
-            userId: uniqueId, // Use the unique identifier
-            chosenImage: selectedImage.src, // src of the selected image
-            availableImages: Array.from(imageContainer.querySelectorAll("img")).map(img => img.src) // src of all images
+            userId: uniqueId, 
+            chosenImage: selectedImage.src, 
+            availableImages: Array.from(imageContainer.querySelectorAll("img")).map(img => img.src) 
         };
         console.log(choiceData);
 
-        // Send the choiceData to the server
-        fetch('/api/task', {  // Use relative URL for Vercel
+        // Send recipe selection data to server
+        fetch('/api/task', { 
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
@@ -96,40 +92,37 @@ function saveChoiceAndReload() {
         })
         .then(data => {
             console.log('Success:', data);
-            reloadImages(); // This function should handle the logic to move to the next set of images or end the session
+            reloadImages();
         })
         .catch((error) => {
             console.error('Error:', error);
             alert('An error occurred while submitting your choice. Please try again.');
         });
 
-        // Increment the task counter
+        // Number of odd-one-out tasks to be completed in one round
         taskCount++;
         if (taskCount >= 10) {
-                // Increment and save the completion count
             var completions = (localStorage.getItem("surveyCompletions") || 0) + 1;
             localStorage.setItem("surveyCompletions", completions);
 
             if (completions < 2) {
-                // Set flag for second attempt
                 localStorage.setItem("secondAttempt", "true");
             } else {
-                // Clear the flag as the user has completed the survey twice
                 localStorage.removeItem("secondAttempt");
             }
 
             window.location.href = 'end.html';
-            return; // Exit the function
+            return; 
         }
     } else {
         alert("Bitte wählen Sie ein Rezept aus");
     }
-    window.scrollTo(0, 0); // Scroll to top after reloading recipes.
+    window.scrollTo(0, 0);
 }
 
 
 
-// Function to reload images and shuffle recipes
+// Function to reload and shuffle recipes
 function reloadImages() {
     var imageContainer = document.getElementById("image-container");
     imageContainer.innerHTML = "";
@@ -137,18 +130,16 @@ function reloadImages() {
     displayImages();
 }
 
-// Function to display a limited number of images and their recipes
+// Function to display recipes
 function displayImages() {
     var imageContainer = document.getElementById("image-container");
 
-    // Clear previous content
     imageContainer.innerHTML = '';
 
-    // Display only the first three recipes
+    // Display three recipes
     for (let i = 0; i < 3 && i < recipes.length; i++) {
         let recipe = recipes[i];
 
-          // Create a container for each recipe
         var recipeContainer = document.createElement("div");
         recipeContainer.classList.add("recipe-container");
 
@@ -180,7 +171,7 @@ function displayImages() {
         });
         recipeContainer.appendChild(ingredientsTable);
 
-        // Display directions
+        // Directions
         let directionsTitle = document.createElement("h4");
         directionsTitle.textContent = "Zubereitung";
         recipeContainer.appendChild(directionsTitle);
@@ -193,22 +184,16 @@ function displayImages() {
         });
         recipeContainer.appendChild(ol);
 
-        // Add onclick event to the recipe container
+        // Add onclick event to recipe container
         recipeContainer.onclick = function() {
-            // Remove 'selected' class from all recipe containers
             var allRecipes = imageContainer.querySelectorAll(".recipe-container");
             allRecipes.forEach(function(rc) {
                 rc.classList.remove("selected");
             });
-
-            // Add 'selected' class to this recipe container
             this.classList.add("selected");
         };
-
-        // Append the entire recipe container
         imageContainer.appendChild(recipeContainer);
     }
 }
 
-// Initial call to display images and recipes
 displayImages();

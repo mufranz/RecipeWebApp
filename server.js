@@ -25,7 +25,7 @@ const client = new MongoClient(uri, {
     strict: true,
     deprecationErrors: true,
   },
-  connectTimeoutMS: 10000 // 10 seconds timeout
+  connectTimeoutMS: 10000 
 });
 
 let dbClient = null;
@@ -45,17 +45,17 @@ async function connectToMongoDB(retries = 5) {
         console.error('Exhausted all retries. Could not connect to MongoDB.');
         process.exit(1);
       }
-      await new Promise(res => setTimeout(res, 5000)); // Wait for 5 seconds before retrying
+      await new Promise(res => setTimeout(res, 5000)); 
     }
   }
 
   if (!dbClient) {
     console.error('Could not establish a connection to MongoDB after several retries. Exiting...');
-    process.exit(1); // Exit the process if the connection could not be established
+    process.exit(1); 
   }
 }
 
-// Initial connection attempt
+// Connect to DB
 connectToMongoDB();
 
 const PORT = process.env.PORT || 3000;
@@ -63,7 +63,7 @@ app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
 
-// Middleware to ensure DB connection
+
 app.use(async (req, res, next) => {
   if (!dbClient) {
     await connectToMongoDB();

@@ -18,29 +18,29 @@ p {
 
 #survey-container {
     background-color: white;
-    width: 80%; /* Default width */
+    width: 80%; 
     margin: auto;
     padding: 20px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     border-radius: 5px;
 }
 
-/* Responsive Adjustments */
+
 @media (min-width: 1024px) {
     #survey-container {
-        width: 60%; /* Smaller width for larger screens */
+        width: 60%; 
     }
 }
 
 @media (max-width: 768px) {
     #survey-container {
-        width: 90%; /* Wider for medium screens */
+        width: 90%; 
     }
 }
 
 @media (max-width: 480px) {
     #survey-container {
-        width: 100%; /* Full width for small screens */
+        width: 100%; 
         box-shadow: none;
     }
 }
@@ -84,7 +84,7 @@ button:hover {
     background-color: #0056b3;
 }
 
-/* Responsive Design */
+
 @media (max-width: 768px) {
     form {
         width: 90%;

@@ -68,7 +68,7 @@
     </form>
     </div>
 
-    <!-- After the form -->
+    <!-- Completion message -->
     <div id="thank-you-message" style="display: none;">
         <p>Vielen Dank für Ihre Teilnahme an der Umfrage.</p>
     </div>
@@ -77,7 +77,7 @@
         document.getElementById('survey-form').addEventListener('submit', function(event) {
             event.preventDefault();
 
-            // Collecting form data
+            // Data
             var age = document.getElementById('age').value;
             var gender = document.getElementById('gender').value;
             var eatingHabit = document.querySelector('input[name="eating-habit"]:checked').value;
@@ -97,7 +97,7 @@
             };
 
             // Send the survey data to the server
-            fetch('/api/survey', { // Use relative URL
+            fetch('/api/survey', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
