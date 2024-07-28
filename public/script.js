@@ -150,7 +150,7 @@ function displayImages() {
 
         // Image
         var img = document.createElement("img");
-        img.src = recipe.image.replace('german_food', 'images');
+        img.src = recipe.image.replace;
         img.alt = recipe.title;
         recipeContainer.appendChild(img);
 
